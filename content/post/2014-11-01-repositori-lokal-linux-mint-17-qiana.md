@@ -16,9 +16,11 @@ Hal yang saya lakukan ketika baru melakukan instalasi Ubuntu (dan turunannya, se
 
 Ketika saat ini saya menggunakan Linux Mint 17 Qiana, saya menemukan bahwa ITB tidak melakukan _mirror_ terhadap repositori Linux Mint. Hasil Google-_ing_ singkat menunjukkan bahwa Kambing UI dan [repositori UKDW][3]-lah yang melakukan _mirror_ terhadap repositori Linux Mint.
 
-Sehingga, saya membuka Terminal dan mengetikkan &#8230;
+Sehingga, saya membuka Terminal dan mengetikkan ...
 
-<pre class="lang:sh decode:true ">sudo nano /etc/apt/sources.list</pre>
+```
+sudo nano /etc/apt/sources.list
+```
 
 Tapi ternyata, hal ini yang saya temui:
 
@@ -26,13 +28,12 @@ Tapi ternyata, hal ini yang saya temui:
 
 Lho, ke mana puluhan baris yang biasa saya temui di `/etc/apt/sources.list` milik Ubuntu itu?
 
-<!--more-->Saya mencoba mengakses System Settings bawaan dari Linux Mint 17, kemudian membuka konfigurasi Software Sources di bagian bawah. Setelah memasukkan 
-
+<!--more-->Saya mencoba mengakses System Settings bawaan dari Linux Mint 17, kemudian membuka konfigurasi Software Sources di bagian bawah. Setelah memasukkan
 _root password_, saya agak kaget dengan tampilan ini — dan langsung berdecak kagum:
 
 <img class="alignnone size-full wp-image-50" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-2.png" alt="repo-lokal-2" width="789" height="532" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-2.png 789w, https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-2-300x202.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
-Ternyata, secara standar, Linux Mint 17 sudah menyediakan opsi untuk merubah sumber repositori-nya ke berbagai _mirror_ di seluruh dunia. Kambing UI dan repositori UKDW juga tercantum di sana.
+Ternyata, secara standar, Linux Mint 17 sudah menyediakan opsi untuk merubah sumber repositorinya ke berbagai _mirror_ di seluruh dunia. Kambing UI dan repositori UKDW juga tercantum di sana.
 
  [1]: http://kambing.ui.ac.id/
  [2]: ftp://ftp.itb.ac.id/pub/

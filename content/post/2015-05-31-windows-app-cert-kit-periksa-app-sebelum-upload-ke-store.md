@@ -10,7 +10,7 @@ categories:
 ---
 Salah satu tahapan yang akan dilalui App kita sebelum ditayangkan oleh Microsoft di Store (baik Windows Store maupun Windows Phone Store) adalah pengujian. Semua aplikasi yang akan ditayangkan pasti diuji dulu secara otomatis. Beberapa aplikasi akan diuji secara manual, tapi mayoritas tidak akan melalu pengujian manual lagi.
 
-Nah &#8230; kayaknya repot ya kalau misalnya buat App yang ukurannya besar, terus sudah upload lama-lama (apalagi kalau pakai koneksi umum di Indonesia—lain hal kalau misalnya pakai koneksi di kampus :D), terus ternyata hasil pengujiannya gagal?
+Nah ... kayaknya repot ya kalau misalnya buat App yang ukurannya besar, terus sudah upload lama-lama (apalagi kalau pakai koneksi umum di Indonesia—lain hal kalau misalnya pakai koneksi di kampus :D), terus ternyata hasil pengujiannya gagal?
 
 Untungnya, Microsoft punya aplikasi Windows App Certification Kit. Aplikasi ini sudah include dengan Windows Development Kit yang bisa diinstal bersama Visual Studio. Dengan aplikasi ini, kita bisa menguji App yang sudah dibuat secara lokal. Konon katanya, kalau sudah lolos pengujian di sini, kemungkinan besar akan lolos juga di Store karena metode pengujiannya sama.
 

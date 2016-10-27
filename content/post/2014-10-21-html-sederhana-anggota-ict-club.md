@@ -10,7 +10,7 @@ categories:
 ---
 Saya sempat memberikan sedikit tambahan materi ketika kegiatan [ICT Club &#8211; SMP Negeri 2 Bandung][1] tanggal 12 September 2014. Kala itu, materinya mengenai HTML, dan pemateri utamanya adalah Aulia Rahman A. Wahyudi dari kelas VIII.
 
-Saat itu saya sempat memberikan tugas serta &#8220;mengiming-imingi&#8221; bahwa hasil karya mereka akan dipajang di blog saya. Tapi sudah satu bulan lebih berlalu, karya yang masuk belum juga sempat saya unggah ke blog. (Padahal kerjaan lain terkejar semua &#8230; dan mengunggah ini hanya butuh sekian menit. Aduh, maafkan.)
+Saat itu saya sempat memberikan tugas serta "mengiming-imingi" bahwa hasil karya mereka akan dipajang di blog saya. Tapi sudah satu bulan lebih berlalu, karya yang masuk belum juga sempat saya unggah ke blog. (Padahal kerjaan lain terkejar semua ... dan mengunggah ini hanya butuh sekian menit. Aduh, maafkan.)
 
 Saya pajang hasil karya HTML sederhana dari adik-adik saya di sana:
 

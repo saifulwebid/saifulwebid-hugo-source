@@ -1,7 +1,5 @@
 ---
 title: Profil Singkat
-author: Saiful
-layout: page
 date: 2015-09-03T16:02:35+00:00
 
 ---
@@ -9,7 +7,7 @@ date: 2015-09-03T16:02:35+00:00
 
 Anda bisa menghubungi saya di <muhammad@saiful.web.id>.
 
-[<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Muhammad Saiful Islam's profile on LinkedIn" width="160" height="33" border="0" />][2]
+[![View Muhammad Saiful Islam's provile on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png)][2]
 
 ### saiful.web.id
 

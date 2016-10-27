@@ -8,6 +8,8 @@ categories:
   - Life Notes
 
 ---
+[youtube https://www.youtube.com/watch?v=RnkamC0e0CI]
+
 _Karena saya lelah, setelah sekian lama, lagi-lagi kita tak dikenal._
 
-Kalau kata pak Yudi, &#8220;kita (selama ini) terlambat menulis sejarah kita sendiri.&#8221;
+Kalau kata pak Yudi, "kita (selama ini) terlambat menulis sejarah kita sendiri."

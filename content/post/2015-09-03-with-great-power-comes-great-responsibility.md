@@ -24,15 +24,13 @@ Masalahnya bukan saya berhasil menyisihkan mereka; masalahnya bukan saya adalah 
 
 <!--more-->Saat itu, saya sedang dalam kondisi down karena saya pada akhirnya memutuskan untuk berkuliah di Politeknik Negeri Bandung setelah diterima di Institut Pertanian Bogor — tempat yang mulanya saya incar dan perjuangkan dengan berbagai jalur penerimaan, selain Institut Teknologi Bandung.
 
-Pertanyaan Derianto &#8216;menampar&#8217; saya cukup keras karena saat itu saya merasa &#8216;pantas&#8217; berada di IPB dengan status saya sebagai alumni OSN 2013. Kalau dibandingkan dengan alumni dan medalis lainnya, saya hanyalah &#8220;butiran debu&#8221;. Tidak seberapa persennya.
+Pertanyaan Derianto 'menampar' saya cukup keras karena saat itu saya merasa 'pantas' berada di IPB dengan status saya sebagai alumni OSN 2013. Kalau dibandingkan dengan alumni dan medalis lainnya, saya hanyalah "butiran debu". Tidak seberapa persennya.
 
 Terutama karena mulanya, pernah terlintas pemikiran bahwa hadir di OSN 2013 tahun kemarin itu sekadar titik pengalaman besar saja bagi saya — dan karena saya memang belum berhasil meraih medali di sana.
 
 Saat itu, saya kemudian berniat: posisi saya di Polban ini tetap harus menjadi pembuktian bahwa memang saya pantas berada di OSN 2013 saat itu.
 
-* * *
-
-&nbsp;
+***
 
 Hari ini, saya diingatkan oleh fitur [On This Day][3]-nya Facebook akan share tersebut.
 
@@ -40,41 +38,39 @@ Saya memutuskan menonton video-nya kembali.
 
 _Dan saya tertampar kembali untuk kedua kalinya._
 
-Karena saya merasa belum berkontribusi apa-apa sesuai kemampuan saya. _Maybe I __performed well but I think I didn&#8217;t contribute well._ Boleh saja IPK saya cukup tinggi, tetapi saya merasa IPK tersebut hanya untuk diri saya sendiri. Dalam hal kontribusi ke lingkungan sekitar, saya merasa rendah.
+Karena saya merasa belum berkontribusi apa-apa sesuai kemampuan saya. _Maybe I performed well but I think I didn't contribute well._ Boleh saja IPK saya cukup tinggi, tetapi saya merasa IPK tersebut hanya untuk diri saya sendiri. Dalam hal kontribusi ke lingkungan sekitar, saya merasa rendah.
 
 Bahkan mungkin delta performa saya dari awal masuk Polban hingga saat ini tidak terlalu banyak. Di saat yang sama, ada teman-teman saya seperti [Imam Fauzan][4] yang dengan ilmunya yang ia peroleh di SMA, karyanya justru lebih usable dibanding karya saya, dan dengan ilmu-ilmu baru yang diperoleh di Polban, karyanya justru lebih berkembang. Atau [Fadhlan Ridhwanallah][5] yang baru setahun mengenal informatika namun karyanya bisa dipakai di klinik ibunya.
 
 Malam ini, saya kembali merenungi kata-kata Derianto,
 
 > Apa makna dari pengalaman OSN ini buat kalian?
-> 
-> Mungkin, saya bakal bilang quote yang tadi, &#8220;with great power comes great responsibility&#8221;. Itu kayaknya dari Star Wars kalau saya nggak salah.
-> 
+>
+> Mungkin, saya bakal bilang quote yang tadi, "with great power comes great responsibility". Itu kayaknya dari Star Wars kalau saya nggak salah.
+>
 > Tapi intinya sebenarnya simpel.
-> 
+>
 > Mungkin OSN ini cuma jadi satu titik pengalaman saja di hidup kalian, tapi sebenarnya ini adalah pertanda bahwa kalian adalah salah satu dari generasi terpilih. Jadi kalau kalian ke depannya tidak memanfaatkan dan tidak berkontribusi sesuai dengan apa yang sebenarnya kalian mampu, sesuai dengan kapasitas kalian,
-> 
+>
 > **Kalian perlu bertanya pada hari ini: Apakah pantas kalian di sini?**
-> 
+>
 > Kalau kalian jawab iya, kalian adalah seorang yang spesial.
-> 
+>
 > <cite>Derianto Kusuma</cite>
 
-&nbsp;
-
-* * *
+***
 
 Video itu ditutup dengan sebuah quote,
 
 > Apapun yang diperbuat oleh seseorang itu, hendaknya dapat **bermanfaat bagi dirinya sendiri, bermanfaat bagi bangsanya, dan bermanfaat bagi manusia di dunia pada umumnya**.
-  
+
 > <cite>Ki Hajar Dewantara</cite>
 
-* * *
+***
 
-_Akankah &#8230; saya kembali tertampar untuk ketiga kalinya di 3 September 2016 &#8230;?_
+_Akankah ... saya kembali tertampar untuk ketiga kalinya di 3 September 2016 ...?_
 
-_Saya harap tidak &#8230;_
+_Saya harap tidak ..._
 
  [1]: http://www.traveloka.com
  [2]: https://www.facebook.com/saifulwebid/posts/10201646632088087

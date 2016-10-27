@@ -16,9 +16,10 @@ Saya menggunakan Linux Mint 17 Qiana di laptop saya (yang berbasis Ubuntu 14.04 
 
 Untuk keperluan ini, saya menggunakan **touchpad-indicator**:
 
-<pre class="lang:sh decode:true ">sudo add-apt-repository ppa:atareao/atareao
+```
+sudo add-apt-repository ppa:atareao/atareao
 sudo apt-get update
-sudo apt-get install touchpad-indicator</pre>
+sudo apt-get install touchpad-indicator```
 
 Selanjutnya, aplikasi ini di-_launch_ untuk pertama kalinya dari _launcher_.
 
@@ -37,24 +38,24 @@ Dan seperti aplikasi yang berjalan di _system tray_ pada umumnya, semua menu da
 Berikut ini adalah daftar opsi yang disediakan oleh **touchpad-indicator**.
 
 <div id='gallery-1' class='gallery galleryid-39 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
+  <figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-3-settings1.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-3-settings1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-3-settings1" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-4-settings2.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-4-settings2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-4-settings2" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-5-settings3.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-5-settings3-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-5-settings3" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-6-settings4.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-6-settings4-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-6-settings4" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
+  </div></figure><figure class='gallery-item'>
+
   <div class='gallery-icon landscape'>
     <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-7-settings5.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-7-settings5-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-7-settings5" /></a>
   </div></figure>

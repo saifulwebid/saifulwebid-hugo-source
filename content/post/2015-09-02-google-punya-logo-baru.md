@@ -16,9 +16,9 @@ Sebenarnya mulanya biasa saja. Hingga kemudian ketika akan meng-close tab-tab ya
 
 <img class="alignnone size-full wp-image-84 aligncenter" src="https://saiful.web.id/blog/wp-content/uploads/2015/09/logo-google-baru-icon-chrome.png" alt="logo-google-baru-icon-chrome" width="254" height="58" />
 
-&#8220;Logo website apa itu?&#8221; tanya saya dalam hati.
+"Logo website apa itu?" tanya saya dalam hati.
 
-Begitu saya buka tab-nya, &#8220;lho, Google?&#8221;
+Begitu saya buka tab-nya, "lho, Google?"
 
 <!--more-->
 

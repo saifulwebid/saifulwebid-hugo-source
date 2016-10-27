@@ -8,7 +8,7 @@ categories:
   - Microsoft Ecosystem
 
 ---
-Dalam merancang sebuah Windows App, kita perlu tahu bagaimana sebuah aplikasi &#8220;menjalani kehidupannya&#8221;, karena skema hidup Windows App sedikit berbeda dengan aplikasi desktop pada umumnya. Dengan memperhatikan lifecycle sebuah aplikasi, kita bisa menghadirkan user experience yang nyaman bagi pengguna App kita.
+Dalam merancang sebuah Windows App, kita perlu tahu bagaimana sebuah aplikasi "menjalani kehidupannya", karena skema hidup Windows App sedikit berbeda dengan aplikasi desktop pada umumnya. Dengan memperhatikan lifecycle sebuah aplikasi, kita bisa menghadirkan user experience yang nyaman bagi pengguna App kita.
 
 Secara umum, lifecycle (daur hidup) sebuah Windows App bisa digambarkan dengan state-diagram berikut [1]:
 
@@ -53,7 +53,7 @@ Ketika ada crash, maka user akan kembali ke Start menu. Jika user mengaktifkan k
 
 ### Referensi
 
-[1] [&#8220;App lifecycle&#8221;. Microsoft Windows Dev Center.][5]
+[1] ["App lifecycle". Microsoft Windows Dev Center.][5]
 
  [1]: https://msdn.microsoft.com/en-us/library/windows/apps/windows.ui.xaml.application.onactivated.aspx
  [2]: https://msdn.microsoft.com/en-us/library/windows/apps/br212679.aspx

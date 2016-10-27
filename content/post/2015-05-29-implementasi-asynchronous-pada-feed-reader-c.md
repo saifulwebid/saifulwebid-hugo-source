@@ -12,28 +12,33 @@ Kemarin, saya share mengenai [teknik pemrograman asynchronous pada C# menggunaka
 
 Jadi, pada aplikasi saya ada sebuah class bernama `FeedDataSource` yang berfungsi menampung daftar item dari RSS website POLBAN dan mengambil item-item tersebut. Daftar item ditampung pada sebuah properti `Feeds` seperti berikut:
 
-<pre class="lang:c# decode:true ">private ObservableCollection&lt;FeedItem&gt; _Feeds = new ObservableCollection&lt;FeedItem&gt;();
-public ObservableCollection&lt;FeedItem&gt; Feeds
+```
+private ObservableCollection<FeedItem> _Feeds = new ObservableCollection<FeedItem>();
+public ObservableCollection<FeedItem> Feeds
 {
     get { return _Feeds; }
-}</pre>
+}
+```
 
 <!--more-->
 
 `ObservableCollection` digunakan agar objek yang di-bind dengan Collection tersebut (misalnya, ListItem) bisa langsung di-refresh ketika ada perubahan pada isi dari `ObservableCollection`. Pada kode di atas, `FeedItem` adalah sebuah class sederhana yang menstrukturkan isi dari sebuah item RSS feed.
 
-<pre class="lang:c# decode:true ">public class FeedItem
+```
+public class FeedItem
 {
     public string Title { get; set; }
     public string Author { get; set; }
     public string Content { get; set; }
     public DateTime PubDate { get; set; }
     public Uri Link { get; set; }
-}</pre>
+}
+```
 
 Nah, di mana asynchronous-nya? Coba lihat method berikut:
 
-<pre class="lang:c# mark:1,8 decode:true">public async Task GetFeedsAsync()
+```
+public async Task GetFeedsAsync()
 {
     SyndicationClient client = new SyndicationClient();
     Uri feedUri = new Uri("http://www.polban.ac.id/index.php?format=feed&type=rss");
@@ -52,7 +57,7 @@ Nah, di mana asynchronous-nya? Coba lihat method berikut:
                     feedItem.Title = item.Title.Text;
                 }
 
-                if (item.Authors != null && item.Authors.Count &gt; 0) {
+                if (item.Authors != null && item.Authors.Count > 0) {
                     feedItem.Author = item.Authors[0].Name.ToString();
                 }
 
@@ -64,7 +69,7 @@ Nah, di mana asynchronous-nya? Coba lihat method berikut:
                     feedItem.PubDate = item.PublishedDate.DateTime;
                 }
 
-                if (item.Links != null && item.Links.Count &gt; 0) {
+                if (item.Links != null && item.Links.Count > 0) {
                     feedItem.Link = item.Links[0].Uri;
                 }
 
@@ -76,7 +81,8 @@ Nah, di mana asynchronous-nya? Coba lihat method berikut:
     {
         // do nothing (bad practice hehehe)
     }
-}</pre>
+}
+```
 
 Nah, itu dia asynchronous method-nya. Jadi `GetFeedsAsync()` akan mengambil data dari website POLBAN secara asynchronous. Setelah data diperoleh, maka setiap item dari RSS yang sudah diambil dibuatkan sebuah class `FeedItem` dan dimasukkan ke dalam `ObservableCollection` yang sudah didefinisikan di awal.
 
