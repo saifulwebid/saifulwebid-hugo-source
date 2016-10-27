@@ -3,7 +3,7 @@ title: Google Indonesia "hacked"?
 author: Saiful
 layout: post
 date: 2014-10-05T05:07:49+00:00
-url: /2014/10/google-indonesia-hacked/
+slug: google-indonesia-hacked
 dsq_thread_id:
   - 5232724734
 categories:

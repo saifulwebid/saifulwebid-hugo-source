@@ -3,7 +3,7 @@ title: Teach something you know best
 author: Saiful
 layout: post
 date: 2013-11-17T02:59:50+00:00
-url: /2013/11/teach-something-you-know-best/
+slug: teach-something-you-know-best
 categories:
   - Life Notes
 format: quote

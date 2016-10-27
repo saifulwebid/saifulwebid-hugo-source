@@ -3,7 +3,7 @@ title: 'Fiction Competition di Gomu-gomu no Matsuri IV: Neko Matsuri'
 author: Saiful
 layout: post
 date: 2013-11-25T12:50:42+00:00
-url: /2013/11/fic-ggnmiv/
+slug: fic-ggnmiv
 dsq_thread_id:
   - 5232724825
 categories:

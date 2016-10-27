@@ -3,7 +3,7 @@ title: Halo, dunia. Saya kembali lagi.
 author: Saiful
 layout: post
 date: 2013-10-12T04:26:31+00:00
-url: /2013/10/halo-dunia/
+slug: halo-dunia
 dsq_thread_id:
   - 1848224235
 categories:

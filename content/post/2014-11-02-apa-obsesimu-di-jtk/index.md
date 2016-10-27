@@ -3,7 +3,7 @@ title: “Apa Obsesimu di JTK?”
 author: Saiful
 layout: post
 date: 2014-11-02T09:57:25+00:00
-url: /2014/11/apa-obsesimu-di-jtk/
+slug: apa-obsesimu-di-jtk
 dsq_thread_id:
   - 5232724666
 categories:

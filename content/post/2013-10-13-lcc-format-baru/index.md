@@ -3,7 +3,7 @@ title: LCC 4 Pilar MPR-RI (format baru)
 author: Saiful
 layout: post
 date: 2013-10-13T01:04:37+00:00
-url: /2013/10/lcc-format-baru/
+slug: lcc-format-baru
 dsq_thread_id:
   - 5232724901
 categories:

@@ -3,7 +3,7 @@ title: 'Windows App Cert Kit: Periksa App Sebelum Upload ke Store'
 author: Saiful
 layout: post
 date: 2015-05-31T04:38:50+00:00
-url: /2015/05/windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/
+slug: windows-app-cert-kit-periksa-app-sebelum-upload-ke-store
 categories:
   - Microsoft Ecosystem
 

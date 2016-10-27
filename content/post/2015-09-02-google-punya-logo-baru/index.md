@@ -3,7 +3,7 @@ title: Google Punya Logo Baru!
 author: Saiful
 layout: post
 date: 2015-09-01T22:54:15+00:00
-url: /2015/09/google-punya-logo-baru/
+slug: google-punya-logo-baru
 categories:
   - Berita
 

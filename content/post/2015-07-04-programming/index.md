@@ -3,7 +3,7 @@ title: Programming?
 author: Saiful
 layout: post
 date: 2015-07-04T01:15:49+00:00
-url: /2015/07/programming/
+slug: programming
 dsq_thread_id:
   - 5234356729
 categories:

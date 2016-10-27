@@ -3,7 +3,7 @@ title: Touchpad Indicator Untuk Ubuntu (dan Linux Mint)
 author: Saiful
 layout: post
 date: 2014-11-01T15:11:59+00:00
-url: /2014/11/touchpad-indicator-untuk-ubuntu-dan-linux-mint/
+slug: touchpad-indicator-untuk-ubuntu-dan-linux-mint
 categories:
   - Linux
 tags:

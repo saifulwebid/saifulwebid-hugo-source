@@ -3,7 +3,7 @@ title: 'Asynchronous dengan "await" dan "async" pada C#'
 author: Saiful
 layout: post
 date: 2015-05-27T22:24:50+00:00
-url: /2015/05/asynchronous-await-async-c/
+slug: asynchronous-await-async-c
 categories:
   - Microsoft Ecosystem
 

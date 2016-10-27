@@ -3,7 +3,7 @@ title: With great power, comes great responsibility
 author: Saiful
 layout: post
 date: 2015-09-03T13:18:33+00:00
-url: /2015/09/with-great-power-comes-great-responsibility/
+slug: with-great-power-comes-great-responsibility
 dsq_thread_id:
   - 5233076662
 categories:

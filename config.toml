@@ -3,3 +3,6 @@ title = "Muhammad Saiful Islam"
 languageCode = "id-id"
 DefaultContentLanguage = "id"
 theme = "hyde"
+
+[permalinks]
+	post = "/:year/:month/:slug/"

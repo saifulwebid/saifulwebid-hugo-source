@@ -3,7 +3,7 @@ title: Atmosfer Maju Bersama
 author: Saiful
 layout: post
 date: 2015-11-22T22:03:18+00:00
-url: /2015/11/atmosfer-maju-bersama/
+slug: atmosfer-maju-bersama
 categories:
   - Life Notes
 

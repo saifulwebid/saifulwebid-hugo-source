@@ -3,7 +3,7 @@ title: Lifecycle Sebuah Windows App
 author: Saiful
 layout: post
 date: 2015-05-31T08:57:01+00:00
-url: /2015/05/lifecycle-sebuah-windows-app/
+slug: lifecycle-sebuah-windows-app
 categories:
   - Microsoft Ecosystem
 
