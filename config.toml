@@ -6,3 +6,4 @@ theme = "hyde"
 
 [permalinks]
 	post = "/:year/:month/:slug/"
+	page = "/:slug/"
