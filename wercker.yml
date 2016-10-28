@@ -36,10 +36,10 @@ deploy:
             filename: $PRIVATEKEY_PATH
             content: $wercker_PUBLIC
             overwrite: true
-        - sjoerdmulder/rsync-deploy@0.1.0:
+        - deogracia/scp-deploy@0.1.4-dev8:
             host: $HOST
-            directory: $DIRECTORY
-            sshkey: $PRIVATEKEY_PATH
+            sshprivatekey: $PRIVATEKEY_PATH
             user: $SSH_USERNAME
             source: ./public/
+            destionation: $DIRECTORY
             sshport: $SSH_PORT
