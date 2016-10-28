@@ -20,7 +20,7 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
     steps:
-        - arjen/hugo-build@1.13.1
+        - arjen/hugo-build@1.13.1:
             version: "0.17"
 
 deploy:
@@ -34,7 +34,7 @@ deploy:
             filename: $PRIVATEKEY_PATH
             content: $wercker_PUBLIC
             overwrite: true
-        - sjoerdmulder/rsync-deploy@0.1.0
+        - sjoerdmulder/rsync-deploy@0.1.0:
             host: $HOST
             directory: $DIRECTORY
             sshkey: $PRIVATEKEY_PATH
