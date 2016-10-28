@@ -35,7 +35,7 @@ deploy:
         - create-file:
             name: write key
             filename: $PRIVATEKEY_PATH
-            content: $wercker_PUBLIC
+            content: $wercker_PRIVATE
             overwrite: true
         - deogracia/scp-deploy@0.1.4-dev8:
             host: $HOST
