@@ -26,21 +26,7 @@ build:
 deploy:
     steps:
         - install-packages:
-            packages: openssh-client
-        - add-to-known_hosts:
-            hostname: $HOST
-            port: $SSH_PORT
-        - mktemp:
-            envvar: PRIVATEKEY_PATH
-        - create-file:
-            name: write key
-            filename: $PRIVATEKEY_PATH
-            content: $wercker_PRIVATE
-            overwrite: true
-        - deogracia/scp-deploy@0.1.4-dev8:
-            host: $HOST
-            sshprivatekey: $PRIVATEKEY_PATH
-            user: $SSH_USERNAME
-            source: ./public/
-            destination: $DIRECTORY
-            sshport: $SSH_PORT
+            packages: lftp
+        - script:
+            name: deploy via ftp
+            code: lftp -c "open -p $FTP_PORT $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -R -e -v ./public/ $FTP_DIRECTORY"
