@@ -40,3 +40,4 @@ deploy:
             sshkey: $PRIVATEKEY_PATH
             user: $SSH_USERNAME
             source: ./public/
+            sshport: $SSH_PORT
