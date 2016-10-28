@@ -3,29 +3,43 @@
 
 {{ partial "sidebar.html" . }}
 
-    <div class="content container">
-<div class="posts">
+<div class="content container">
+  <div class="posts">
 
-      {{ range where .Data.Pages "Type" "post" }}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ .Permalink }}">
-        {{ .Title }}
-      </a>
-    </h1>
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  {{ range .Paginator.Pages }}
+    <div class="post">
+      <h1 class="post-title">
+        <a href="{{ .Permalink }}">
+          {{ .Title }}
+        </a>
+      </h1>
 
-    <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+      <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
 
-    {{ if .Truncated }}
-      {{ .Summary }}
+      {{ if .Truncated }}
+        {{ .Summary }}
 
-      <p><a href="{{ .Permalink }}" class="read-more-link">Read more ...</a></p>
+        <p><a href="{{ .Permalink }}" class="read-more-link">Read more ...</a></p>
+      {{ else }}
+        {{ .Content }}
+      {{ end }}
+    </div>
+  {{ end }}
+  </div>
+
+  <div class="pagination">
+    {{ if .Paginator.HasNext }}
+      <a class="pagination-item" href="{{ .Paginator.Next.URL }}">Older</a>
     {{ else }}
-      {{ .Content }}
+      <span class="pagination-item">Older</span>
+    {{ end }}
+    {{ if .Paginator.HasPrev }}
+      <a class="pagination-item" href="{{ .Paginator.Prev.URL }}">Newer</a>
+    {{ else }}
+      <span class="pagination-item">Newer</span>
     {{ end }}
   </div>
-  {{ end }}
-</div>
 </div>
 
   </body>
