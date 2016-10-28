@@ -29,4 +29,4 @@ deploy:
             packages: lftp
         - script:
             name: deploy via ftp
-            code: lftp -c "open -p $FTP_PORT $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -R -e -v ./public/ $FTP_DIRECTORY"
+            code: lftp -c "set ftp:ssl-allow no; open -p $FTP_PORT $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -R -e -v ./public/ $FTP_DIRECTORY"
