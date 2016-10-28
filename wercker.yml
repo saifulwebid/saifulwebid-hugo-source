@@ -41,5 +41,5 @@ deploy:
             sshprivatekey: $PRIVATEKEY_PATH
             user: $SSH_USERNAME
             source: ./public/
-            destionation: $DIRECTORY
+            destination: $DIRECTORY
             sshport: $SSH_PORT
