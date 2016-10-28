@@ -29,6 +29,7 @@ deploy:
             packages: openssh-client
         - add-to-known_hosts:
             hostname: $HOST
+            port: $SSH_PORT
         - mktemp:
             envvar: PRIVATEKEY_PATH
         - create-file:
