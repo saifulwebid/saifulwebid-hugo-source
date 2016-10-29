@@ -1,4 +1,6 @@
-box: alpine
+box:
+    id: alpine
+    cmd: /bin/sh
 
 build:
     steps:
