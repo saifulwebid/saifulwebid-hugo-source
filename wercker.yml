@@ -1,32 +1,25 @@
-# This references a standard debian container from the
-# Docker Hub https://registry.hub.docker.com/_/debian/
-# Read more about containers on our dev center
-# http://devcenter.wercker.com/docs/containers/index.html
-box: debian
-# You can also use services such as databases. Read more on our dev center:
-# http://devcenter.wercker.com/docs/services/index.html
-# services:
-    # - postgres
-    # http://devcenter.wercker.com/docs/services/postgresql.html
+box: alpine
 
-    # - mongo
-    # http://devcenter.wercker.com/docs/services/mongodb.html
-
-# This is the build pipeline. Pipelines are the core of wercker
-# Read more about pipelines on our dev center
-# http://devcenter.wercker.com/docs/pipelines/index.html
 build:
-    # Steps make up the actions in your pipeline
-    # Read more about steps on our dev center:
-    # http://devcenter.wercker.com/docs/steps/index.html
     steps:
-        - arjen/hugo-build@1.13.1:
-            version: "0.17"
+        - script:
+            name: get Hugo binary
+            code: |
+                wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
+                echo "6a74626b64434a5ee9fc5ec4fbf22ce6  hugo_0.17_Linux-64bit.tar.gz" | md5sum -c
+                tar xzf hugo_0.17_Linux-64bit.tar.gz && cp ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 /usr/bin/hugo
+                hugo version
+        - script:
+            name: build Hugo site
+            code: hugo
 
 deploy:
     steps:
-        - install-packages:
-            packages: lftp
         - script:
-            name: deploy via ftp
-            code: lftp -c "set ftp:ssl-allow no; open -p $FTP_PORT $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -R -e -v ./public/ $FTP_DIRECTORY"
+            name: get git and ssh-client
+            code: apk update && apk add git && apk add ssh-client
+        - leipert/git-push:
+            gh_oauth: $GITHUB_TOKEN
+            repo: saifulwebid/saifulwebid.github.io
+            branch: master
+            basedir: public
