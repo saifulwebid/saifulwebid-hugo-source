@@ -7,6 +7,7 @@ build:
         - script:
             name: get Hugo binary
             code: |
+                apk --no-cache add git openssl
                 wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
                 echo "6a74626b64434a5ee9fc5ec4fbf22ce6  hugo_0.17_Linux-64bit.tar.gz" | md5sum -c
                 tar xzf hugo_0.17_Linux-64bit.tar.gz && cp ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 /usr/bin/hugo
@@ -19,7 +20,7 @@ deploy:
     steps:
         - script:
             name: get git and ssh-client
-            code: apk update && apk add git && apk add ssh-client
+            code: apk --no-cache add git ssh-client
         - leipert/git-push:
             gh_oauth: $GITHUB_TOKEN
             repo: saifulwebid/saifulwebid.github.io
