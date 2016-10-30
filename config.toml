@@ -13,3 +13,6 @@ enableEmoji = true
 [permalinks]
 	post = "/:year/:month/:slug/"
 	page = "/:slug/"
+
+[params]
+	disqusShortname = "saifulwebid"

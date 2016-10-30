@@ -15,7 +15,14 @@
         </a>
       </h1>
 
-      <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+      <span class="post-date">
+        {{ .Date.Format "Mon, Jan 2, 2006" }}
+
+        {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
+        &bull; <a href="{{ .Permalink }}#disqus_thread">Comments</a>
+        {{ end }}
+
+      </span>
 
       {{ if .Truncated }}
         {{ .Summary }}
@@ -41,6 +48,12 @@
     {{ end }}
   </div>
 </div>
+
+{{ if not (eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/") }}
+  {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
+    <script id="dsq-count-scr" src="//{{ .Site.Params.disqusShortname }}.disqus.com/count.js" async></script>
+  {{ end }}
+{{ end }}
 
   </body>
 </html>
