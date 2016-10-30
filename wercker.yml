@@ -21,7 +21,7 @@ deploy:
         - script:
             name: get git
             code: apk --no-cache add git
-        - lukevivier/gh-pages:
+        - takuma7/gh-pages@0.2.3:
             token: $GITHUB_TOKEN
             repo: saifulwebid/saifulwebid.github.io
             basedir: public
