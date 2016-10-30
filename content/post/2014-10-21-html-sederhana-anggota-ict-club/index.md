@@ -6,9 +6,11 @@ date: 2014-10-21T04:47:27+00:00
 slug: html-sederhana-anggota-ict-club
 categories:
   - 'ICT Club - SMP Negeri 2 Bandung'
+blackfriday:
+  sourceRelativeLinksEval: false
 
 ---
-Saya sempat memberikan sedikit tambahan materi ketika kegiatan [ICT Club &#8211; SMP Negeri 2 Bandung][1] tanggal 12 September 2014. Kala itu, materinya mengenai HTML, dan pemateri utamanya adalah Aulia Rahman A. Wahyudi dari kelas VIII.
+Saya sempat memberikan sedikit tambahan materi ketika kegiatan [ICT Club - SMP Negeri 2 Bandung][1] tanggal 12 September 2014. Kala itu, materinya mengenai HTML, dan pemateri utamanya adalah Aulia Rahman A. Wahyudi dari kelas VIII.
 
 Saat itu saya sempat memberikan tugas serta "mengiming-imingi" bahwa hasil karya mereka akan dipajang di blog saya. Tapi sudah satu bulan lebih berlalu, karya yang masuk belum juga sempat saya unggah ke blog. (Padahal kerjaan lain terkejar semua ... dan mengunggah ini hanya butuh sekian menit. Aduh, maafkan.)
 

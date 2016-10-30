@@ -6,6 +6,8 @@ date: 2015-05-31T04:38:50+00:00
 slug: windows-app-cert-kit-periksa-app-sebelum-upload-ke-store
 categories:
   - Microsoft Ecosystem
+blackfriday:
+  sourceRelativeLinksEval: false
 
 ---
 Salah satu tahapan yang akan dilalui App kita sebelum ditayangkan oleh Microsoft di Store (baik Windows Store maupun Windows Phone Store) adalah pengujian. Semua aplikasi yang akan ditayangkan pasti diuji dulu secara otomatis. Beberapa aplikasi akan diuji secara manual, tapi mayoritas tidak akan melalu pengujian manual lagi.
@@ -32,7 +34,7 @@ Untungnya, Microsoft punya aplikasi Windows App Certification Kit. Aplikasi ini 
 
 Penggunaannya pun sangat mudah. Wizard-nya user friendly (bahkan untuk user biasa sekalipun!). Tidak banyak jargon-jargon aneh yang terdapat pada aplikasi ini. Tinggal pilih jenis App yang ingin diuji, lalu pilih App-nya, lalu tunggu beberapa saat, dan hasil tes pun keluar.
 
-![](Screenshot-2015-05-31-11.35.22.png)
+![](/post/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/Screenshot-2015-05-31-11.35.22.png)
 
 Microsoft sangat merekomendasikan semua App yang kita buat untuk diuji dengan aplikasi ini sebelum meng-upload-nya ke Store. Saya sendiri sangat terbantu dengan aplikasi ini: aplikasi ini mengingatkan saya untuk melakukan Build dengan mode Release ketika pengujian, mengingatkan untuk menambah logo aplikasi dan splash screen, dan hal-hal trivial lainnya.
 
