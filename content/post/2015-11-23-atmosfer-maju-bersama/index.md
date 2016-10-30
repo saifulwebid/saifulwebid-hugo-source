@@ -8,7 +8,7 @@ categories:
   - Life Notes
 
 ---
-[youtube https://www.youtube.com/watch?v=RnkamC0e0CI]
+{{< youtube RnkamC0e0CI >}}
 
 _Karena saya lelah, setelah sekian lama, lagi-lagi kita tak dikenal._
 

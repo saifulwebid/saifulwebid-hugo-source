@@ -12,7 +12,7 @@ Dalam merancang sebuah Windows App, kita perlu tahu bagaimana sebuah aplikasi "m
 
 Secara umum, lifecycle (daur hidup) sebuah Windows App bisa digambarkan dengan state-diagram berikut [1]:
 
-<img class=" size-full wp-image-79 aligncenter" src="https://saiful.web.id/blog/wp-content/uploads/2015/05/State-Diagram-Windows-App.png" alt="State Diagram Windows App" width="615" height="293" srcset="https://saiful.web.id/blog/wp-content/uploads/2015/05/State-Diagram-Windows-App.png 615w, https://saiful.web.id/blog/wp-content/uploads/2015/05/State-Diagram-Windows-App-300x143.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![](State-Diagram-Windows-App.png)
 
 <!--more-->
 
@@ -53,7 +53,7 @@ Ketika ada crash, maka user akan kembali ke Start menu. Jika user mengaktifkan k
 
 ### Referensi
 
-[1] ["App lifecycle". Microsoft Windows Dev Center.][5]
+\[1\] ["App lifecycle". Microsoft Windows Dev Center.][5]
 
  [1]: https://msdn.microsoft.com/en-us/library/windows/apps/windows.ui.xaml.application.onactivated.aspx
  [2]: https://msdn.microsoft.com/en-us/library/windows/apps/br212679.aspx

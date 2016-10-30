@@ -25,38 +25,24 @@ Selanjutnya, aplikasi ini di-_launch_ untuk pertama kalinya dari _launcher_.
 
 <!--more-->
 
-<img class="alignnone wp-image-40 size-full" src="http://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-launcher.png" alt="touchpad-indicator-launcher" width="734" height="607" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-launcher.png 734w, https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-launcher-300x248.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![](touchpad-indicator-launcher.png)
 
 Setelah dijalankan dari _launcher_, maka aplikasi ini akan berjalan di _system tray_.
 
-<img class="alignnone size-full wp-image-41" src="http://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-1-tray.png" alt="touchpad-indicator-1-tray" width="380" height="55" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-1-tray.png 380w, https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-1-tray-300x43.png 300w" sizes="(max-width: 380px) 85vw, 380px" />
+![](touchpad-indicator-1-tray.png)
 
 Dan seperti aplikasi yang berjalan di _system tray_ pada umumnya, semua menu dapat dibuka dengan cara klik kanan pada icon aplikasi tersebut. (**touchpad-indicator** dilambangkan dengan simbol _touchpad_.)
 
-<img class="alignnone size-full wp-image-42" src="http://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-2-popup.png" alt="touchpad-indicator-2-popup" width="192" height="177" />
+![](touchpad-indicator-2-popup.png)
 
 Berikut ini adalah daftar opsi yang disediakan oleh **touchpad-indicator**.
 
-<div id='gallery-1' class='gallery galleryid-39 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'>
+![](touchpad-indicator-3-settings1.png)
 
-  <div class='gallery-icon landscape'>
-    <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-3-settings1.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-3-settings1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-3-settings1" /></a>
-  </div></figure><figure class='gallery-item'>
+![](touchpad-indicator-4-settings2.png)
 
-  <div class='gallery-icon landscape'>
-    <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-4-settings2.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-4-settings2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-4-settings2" /></a>
-  </div></figure><figure class='gallery-item'>
+![](touchpad-indicator-5-settings3.png)
 
-  <div class='gallery-icon landscape'>
-    <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-5-settings3.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-5-settings3-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-5-settings3" /></a>
-  </div></figure><figure class='gallery-item'>
+![](touchpad-indicator-6-settings4.png)
 
-  <div class='gallery-icon landscape'>
-    <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-6-settings4.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-6-settings4-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-6-settings4" /></a>
-  </div></figure><figure class='gallery-item'>
-
-  <div class='gallery-icon landscape'>
-    <a href='https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-7-settings5.png'><img width="150" height="150" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/touchpad-indicator-7-settings5-150x150.png" class="attachment-thumbnail size-thumbnail" alt="touchpad-indicator-7-settings5" /></a>
-  </div></figure>
-</div>
+![](touchpad-indicator-7-settings5.png)

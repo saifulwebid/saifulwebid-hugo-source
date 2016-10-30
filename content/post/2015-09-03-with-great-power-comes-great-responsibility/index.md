@@ -10,7 +10,7 @@ categories:
   - Life Notes
 
 ---
-[youtube https://www.youtube.com/watch?v=z5CCsP8vL-o]
+{{< youtube z5CCsP8vL-o >}}
 
 > **With great power, comes great responsibility.**
 
@@ -71,6 +71,8 @@ Video itu ditutup dengan sebuah quote,
 _Akankah ... saya kembali tertampar untuk ketiga kalinya di 3 September 2016 ...?_
 
 _Saya harap tidak ..._
+
+![](peserta-osn-2013-informatika.jpg)
 
  [1]: http://www.traveloka.com
  [2]: https://www.facebook.com/saifulwebid/posts/10201646632088087

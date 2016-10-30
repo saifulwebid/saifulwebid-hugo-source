@@ -13,7 +13,7 @@ tags:
   - Telkom
 
 ---
-<img class="alignnone size-full wp-image-23" src="https://saiful.web.id/blog/wp-content/uploads/2014/10/Screenshot-2014-10-05-04.57.31.png" alt="Google Indonesia di-&quot;hack&quot;" width="1366" height="768" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/10/Screenshot-2014-10-05-04.57.31.png 1366w, https://saiful.web.id/blog/wp-content/uploads/2014/10/Screenshot-2014-10-05-04.57.31-300x168.png 300w, https://saiful.web.id/blog/wp-content/uploads/2014/10/Screenshot-2014-10-05-04.57.31-1024x575.png 1024w, https://saiful.web.id/blog/wp-content/uploads/2014/10/Screenshot-2014-10-05-04.57.31-800x449.png 800w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+![Google Indonesia di-"hack"](Screenshot-2014-10-05-04.57.31.png)
 
 Sambil menunggu keluarga di rumah bersiap untuk berangkat shalat Idul Adha, saya membuka laptop untuk _browsing_, sekadar mampir di Facebook, Twitter, Quora, dan beberapa media sosial lainnya. Entah apa yang saya kerjakan hingga kemudian saya membuka tab baru dan mencoba mengakses Google Indonesia.
 
@@ -38,43 +38,13 @@ Sepulang dari shalat Idul Adha saya mencoba akses lagi. Yang saya alami, sekaran
 
 Akhirnya, saya coba laporkan ke @TelkomCare.
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="in" dir="ltr">
-    <a href="https://twitter.com/TelkomCare">@TelkomCare</a>, apakah DNS Telkom Speedy sedang gangguan? Saya akses <a href="http://t.co/iCV9NNNbL7">http://t.co/iCV9NNNbL7</a> saja tdk bisa. Tadi pagi malah seperti dihack [1/2]
-  </p>
+{{< tweet 518589143375302656 >}}
 
-  <p>
-    &mdash; Muhammad Saiful I. (@saifulwebid) <a href="https://twitter.com/saifulwebid/status/518589143375302656">October 5, 2014</a>
-  </p>
-</blockquote>
-
-
-
-<blockquote class="twitter-tweet" width="550">
-  <p lang="in" dir="ltr">
-    <a href="https://twitter.com/TelkomCare">@TelkomCare</a> tampilan dihack hanya dari TelkomSpeedy, dari Telkomsel dan ISP lain tidak. Restart modem tdk berefek. Tq <a href="http://t.co/oorAxiK0md">pic.twitter.com/oorAxiK0md</a>
-  </p>
-
-  <p>
-    &mdash; Muhammad Saiful I. (@saifulwebid) <a href="https://twitter.com/saifulwebid/status/518589377711058945">October 5, 2014</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 518589377711058945 >}}
 
 _Long story short_, setelah bertukar informasi di _direct messages_ dan beberapa _mention_, akhirnya dibuatlah pengaduan.
 
-<blockquote class="twitter-tweet" width="550">
-  <p lang="in" dir="ltr">
-    <a href="https://twitter.com/saifulwebid">@saifulwebid</a> Baik saiful, sudah kami buatkan pelaporan kepada petugas yaa, nomor pelaporan silakan cek DM.^IW
-  </p>
-
-  <p>
-    &mdash; Telkom Care (@TelkomCare) <a href="https://twitter.com/TelkomCare/status/518613453435461633">October 5, 2014</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 518613453435461633 >}}
 
 Saya cukup senang bahwa _customer service_ @TelkomCare ini cukup responsif. Bahkan, di _direct messages_ pun laporan saya ditanggapi oleh tiga orang sekaligus, padahal ini hari libur 🙂 Setahu saya, bahkan ketika ayah saya melapor ke Telkom 147 pun nomor pelaporan semacam itu tidak diinformasikan.
 

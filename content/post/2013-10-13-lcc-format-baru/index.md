@@ -38,9 +38,9 @@ Skor maksimal 25 poin dari satu soal.
 
 ## Babak Satu Lawan Satu
 
-Ini yang menggantikan babak rebutan di tahun-tahun sebelumnya. Sebelumnya, saya coba gambarkan posisi panggung...<figure style="width: 960px" class="wp-caption aligncenter">
+Ini yang menggantikan babak rebutan di tahun-tahun sebelumnya. Sebelumnya, saya coba gambarkan posisi panggung...
 
-<img alt="" src="http://sphotos-f.ak.fbcdn.net/hphotos-ak-prn1/1013538_4415996178531_1047599326_n.jpg" width="960" height="642" /><figcaption class="wp-caption-text">Podium babak satu lawan satu LCC 4 Pilar 2013.</figcaption></figure>
+![Podium babak satu lawan satu LCC 4 Pilar tahun 2013.](podium-satu-lawan-satu-lcc-4-pilar-2013.jpg)
 
 Nah, ada podium tambahan tuh, di samping posisi tim. Itu adalah podium untuk babak satu lawan satu. (Yang di tengah itu saya, btw. :D)
 
@@ -60,9 +60,9 @@ Pembawa acara membacakan soal. Kemudian dalam sebuah gerakan, semua anggota tim 
 
 Suasana sosial yang indah :') #apaini
 
-Nah, mulai tahun 2013 ini semua percakapan itu sekarang mayoritas digantikan oleh layar besar ini:<figure style="width: 960px" class="wp-caption aligncenter">
+Nah, mulai tahun 2013 ini semua percakapan itu sekarang mayoritas digantikan oleh layar besar ini:
 
-<img alt="" src="http://sphotos-g.ak.fbcdn.net/hphotos-ak-ash4/1000552_4415706051278_180812005_n.jpg" width="960" height="720" /><figcaption class="wp-caption-text">Scoreboard babak benar salah LCC 4 Pilar 2013.</figcaption></figure>
+![Scoreboard babak benar salah LCC 4 Pilar 2013.](scoreboard-lcc-4-pilar-2013.jpg)
 
 Jadi, masing-masing peserta nantinya akan memegang _voting pad_ seperti acara Mario Teguh kalau sudah masuk sesi jajak pendapat. Di _voting pad_ itu nanti ada tiga tombol: tombol "Benar", tombol "Salah", dan tombol _transmit_.
 

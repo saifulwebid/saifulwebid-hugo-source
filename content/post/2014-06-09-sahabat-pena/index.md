@@ -30,17 +30,15 @@ Saya belum pernah memiliki sahabat pena. Saya belum pernah berkirim surat secar
 
 Sesekalinya saya menulis surat, adalah surat-surat perizinan dan surat-surat edaran ke orang tua siswa di Pramuka dan di ekstrakurikuler IT 😀
 
-(Dan baru tersadar: Yahoo Messenger sudah jarang sekali digunakan. WhatsApp juga sepertinya mulai ditinggalkan di _inner circle_ saya. KakaoTalk hanya diinstal untuk mendapat promo-promo saja dari _admin_.)<figure id="attachment_16" style="width: 296px" class="wp-caption alignright">
+(Dan baru tersadar: Yahoo Messenger sudah jarang sekali digunakan. WhatsApp juga sepertinya mulai ditinggalkan di _inner circle_ saya. KakaoTalk hanya diinstal untuk mendapat promo-promo saja dari _admin_.)
 
-<img class="wp-image-16 size-full" src="http://saiful.web.id/blog/wp-content/uploads/2014/06/pak-pos-jatuh.jpg" alt="Pak Pos Jatuh dari Motor" width="296" height="166" /><figcaption class="wp-caption-text">"Sebentar, anak-anak ... bapak jatuh ..." Foto ini menyebar viral sekali ketika pengumuman kelulusan. :))</figcaption></figure>
+!["Sebentar, anak-anak ... bapak jatuh ..." Foto ini menyebar viral sekali ketika pengumuman kelulusan. :))](pak-pos-jatuh.jpg)
 
 Jadi saya _sign-up_ di tawaran Yume itu, dan dimasukkan ke _group chat_ untuk mendiskusikan teknisnya. Ya, anak zaman sekarang, bahkan untuk berkirim surat, dikoordinasikan dulu lewat Facebook Chat. XD
 
 Singkat cerita, dapatlah saya dua orang untuk dikirimi surat. Satu orang dari Malang dan satu orang dari Pagaralam, Sumatera Selatan. Malam itu juga, saya langsung tuliskan surat untuk mereka berdua. (Mengenai ini akan saya tulis di artikel lain.)
 
 Mengenai sahabat pena ini saya jadi teringat bahwa pernah ada lagu tentang sahabat pena. Ternyata benar ada. Saya menemukan versi yang dinyanyikan Boy Sandi:
-
-
 
 > Seminggu kini telah lalu<br>
 > Ku tahu kau menunggu<br>
@@ -80,6 +78,6 @@ Seberapa konsisten kami akan berkirim surat?
 
 Atau jangan-jangan pak pos yang menghentikan hubungan kami? #halah
 
-[1] Sumber _posting_ Yume bisa dilihat di sini: [https://www.facebook.com/groups/fanfictionworld/740519202657207/?notif\_t=group\_activity][1]. Terakhir dibuka tanggal 9 Juni 2014.
+\[1\] Sumber _posting_ Yume bisa dilihat di sini: [https://www.facebook.com/groups/fanfictionworld/740519202657207/?notif\_t=group\_activity][1]. Terakhir dibuka tanggal 9 Juni 2014.
 
  [1]: https://www.facebook.com/groups/fanfictionworld/740519202657207/?notif_t=group_activity

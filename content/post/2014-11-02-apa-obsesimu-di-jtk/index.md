@@ -30,7 +30,9 @@ Apa pula makhluk bernama obsesi ini? KBBI edisi keempat [mendefinisikan kata obs
 
 (_Emphasis mine._)
 
-<img class="alignright wp-image-54 size-medium" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/hidup-sekadar-hidup-hamka-230x300.jpg" alt="hidup-sekadar-hidup-hamka" width="230" height="300" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/11/hidup-sekadar-hidup-hamka-230x300.jpg 230w, https://saiful.web.id/blog/wp-content/uploads/2014/11/hidup-sekadar-hidup-hamka-785x1024.jpg 785w, https://saiful.web.id/blog/wp-content/uploads/2014/11/hidup-sekadar-hidup-hamka-800x1042.jpg 800w, https://saiful.web.id/blog/wp-content/uploads/2014/11/hidup-sekadar-hidup-hamka.jpg 1094w" sizes="(max-width: 230px) 85vw, 230px" />Dan memang, bagi saya obsesi ini menjadi penting keberadaannya. Menjadi pembeda antara “hidup yang sesungguhnya” dengan “hidup yang sekadar hidup”.
+Dan memang, bagi saya obsesi ini menjadi penting keberadaannya. Menjadi pembeda antara “hidup yang sesungguhnya” dengan “hidup yang sekadar hidup”.
+
+![](hidup-sekadar-hidup-hamka.jpg)
 
 > Kalau hidup hanya sekadar hidup, kera di rimba juga hidup. Kalau kerja hanya sekadar kerja, kerbau di sawah juga bekerja.
 >

@@ -8,9 +8,10 @@ dsq_thread_id:
   - 5232724825
 categories:
   - Kompetisi
+mathjax: true
 
 ---
-Beberapa waktu lalu, saya diminta oleh panitia _[Gomu-gomu no Matsuri IV: Neko Matsuri][1]_ untuk jadi juri di _Fiction Competition_ mereka. _Gomu-gomu no Matsuri_ sendiri adalah _event_ tahunannya ekstrakurikuler [_Ni Nihon-go no Kurabu_][2] di [SMA Negeri 2 Bandung][3].
+Beberapa waktu lalu, saya diminta oleh panitia [_Gomu-gomu no Matsuri IV: Neko Matsuri_][1] untuk jadi juri di _Fiction Competition_ mereka. _Gomu-gomu no Matsuri_ sendiri adalah _event_ tahunannya ekstrakurikuler [_Ni Nihon-go no Kurabu_][2] di [SMA Negeri 2 Bandung][3].
 
 Kompetisinya sederhana: buatlah sebuah cerpen dengan tema _matsuri_ (festival) atau _neko_ (kucing). Dengan persyaratan yang sederhana, akhirnya ada enam orang yang menyelesaikan naskahnya dari delapan orang yang mendaftarkan diri. Penjuriannya sendiri _enjoyable_ bagi saya dan merupakan pengalaman pertama saya menjadi juri di kompetisi terbuka 🙂
 
@@ -19,7 +20,6 @@ Kompetisinya sederhana: buatlah sebuah cerpen dengan tema _matsuri_ (festival) 
 Dalam penjurian saya, ada enam aspek yang dinilai:
 
 1. **Kesesuaian dengan tema.** Ini penting: apakah cerpen yang dibuat benar-benar bertemakan sesuai ketentuan, ataukah hanya sekadar menuliskan _matsuri_ atau _neko_ sebagai syarat. Misalkan, sebuah cerita yang semua tokohnya adalah kucing, tapi tidak mencirikan kucing (bahkan cerpen tersebut masih nyambung dibaca ketika semua kata "kucing" diganti menjadi "jerapah", contohnya). Personifikasi diperbolehkan, tapi bukan berarti seekor kucing mampu [melompat seperti tradisi lompat batu di Pulau Nias][4]. 😀
-<figure id="attachment_9" style="width: 720px" class="wp-caption aligncenter">[<img class="size-full wp-image-9" alt="Tradisi lompat batu di Pulau Nias. (Courtesy: Wonderful Indonesia - http://www.indonesia.travel/id/destination/730/pulau-nias/article/137/tradisi-lompat-batu-di-pulau-nias)" src="http://saiful.web.id/blog/wp-content/uploads/2013/11/tradisi-lompat-batu-nias.jpg" width="720" height="576" srcset="https://saiful.web.id/blog/wp-content/uploads/2013/11/tradisi-lompat-batu-nias.jpg 720w, https://saiful.web.id/blog/wp-content/uploads/2013/11/tradisi-lompat-batu-nias-300x240.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />][5]<figcaption class="wp-caption-text">Tradisi lompat batu di Pulau Nias. Nggak semua kucing bisa seperti ini. (Courtesy of [Wonderful Indonesia][4].)</figcaption></figure></li>
 
 2. **Kelengkapan aspek formal cerpen.** Unsur sepele seperti judul cerpen dan nama pengarang tidak boleh terlupakan. (Bukan berarti karena saya memiliki data pendaftar, lalu peserta boleh begitu saja langsung menulis ceritanya di atas kertas. _Identity is a must!_) Sebagaimana cerpen pada umumnya, cerpen yang dikirimkan juga harus memiliki narasi dan dialog — yang ini _you don't say_ sih.
 
@@ -31,6 +31,8 @@ Dalam penjurian saya, ada enam aspek yang dinilai:
 
 6. Pembunuh massal dalam kriteria penilaian, **kesalahan penulisan (_typo_, ketidaksesuaian penempatan tanda baca, redundansi diksi, dsb).** Dua kata bergabung tanpa spasi, coret. Tidak ada tanda baca sebelum tanda kutipan diakhiri, coret. Konsistensi juga diperhatikan (bila seluruh istilah asing dimiringkan pada tiga halaman pertama, tapi di halaman selanjutnya tidak dimiringkan, semua yang tidak dimiringkan dianggap salah.)
 
+![Tradisi lompat batu di Pulau Nias. Nggak semua kucing bisa seperti ini.](tradisi-lompat-batu-nias.jpg)
+
 Satu lagi! Kami sangat menyukai cerpen dengan tata letak yang rapi. Hal ini sangat memudahkan kami untuk membaca, menilai, dan menikmati karya yang dikumpulkan. (Bahkan ada seorang peserta yang rela menjilid terlebih dahulu cerpennya sebelum dikumpulkan. _Really appreciate it._ :') )
 
 Semua cerpen yang dikirimkan memiliki _storyline_ yang bagus. Beberapa cerpen bahkan dapat membuat saya senyum-senyum sendiri, nyaris berteriak kegirangan, atau menutup mulut kami yang tidak tertutup rapat — semua karena cara penulisan yang menarik dan membuat kami merasa seperti sedang menjalani _storyline_ yang diatur penulis.
@@ -41,9 +43,9 @@ Namun, penilaian aspek terakhir yang disebutkan di atas selalu menjadi pembunuh 
 
 Nilai aspek ini diambil dengan menggunakan perhitungan:
 
-<img class="aligncenter size-full wp-image-10" alt="Aspek Penilaian Cerpen di Gomu-gomu no Matsuri IV" src="http://saiful.web.id/blog/wp-content/uploads/2013/11/aspek-penilaian-cerpen-ggnmiv.gif" width="327" height="35" />
+<div>$$(1 - \frac{2 \times \textrm{Jumlah kesalahan dalam cerpen}}{\textrm{Jumlah kata dalam cerpen}}) \times 100$$</div>
 
-(_Yep, you guess it right._ Nilai minus dimungkinkan dalam aspek ini. Makanya saya katakan bahwa ini adalah pembunuh massal >:D)
+(_Yep, you guess it right._ Nilai minus dimungkinkan dalam aspek ini. Makanya saya katakan bahwa ini adalah pembunuh massal 😈)
 
 Dari hasil perhitungan ini, saya berikan gambaran nilai dari enam peserta:
 
@@ -62,19 +64,20 @@ Sebenarnya solusinya sederhana: simpan dahulu _file_ tersebut dalam format Micr
 
 Pada akhirnya, saya mengucapkan selamat bagi tiga pemenang dalam kompetisi ini:
 
-  1. **Bella Nur Handayani** dari SMAN 19 Bandung dengan cerpen [_**Fall**_][6];
-  2. **Mirani Rachmatika Basuki** dari SMAN 19 Bandung dengan cerpen [_**Answer**_][7];
-  3. **Tina Ratnaputri Waluya **dari SMAN 20 Bandung dengan cerpen [_**Because of Taiikukan**_][8].
+  1. **Bella Nur Handayani** dari SMAN 19 Bandung dengan cerpen [_**Fall**_][5];
+  2. **Mirani Rachmatika Basuki** dari SMAN 19 Bandung dengan cerpen [_**Answer**_][6];
+  3. **Tina Ratnaputri Waluya **dari SMAN 20 Bandung dengan cerpen [_**Because of Taiikukan**_][7].
 
-_Outstanding achievement_-nya adalah, ketiga cerpen di atas merupakan finalis yang sama dari seluruh juri _fiction competition_ ini. Selamat! ^_^)/
+_Outstanding achievement_-nya adalah, ketiga cerpen di atas merupakan finalis yang sama dari seluruh juri _fiction competition_ ini. Selamat! 👍👍👍
 
 Saya pribadi cukup senang melakukan penjurian kali ini. Banyak hal yang dapat saya jadikan catatan bagi diri sendiri dalam menulis cerita karena kompetisi ini. Senang juga melihat dan membaca karya-karya yang dikirimkan, _and it is a pleasure for me to read your story as a reader_ 🙂
+
+_Gambar lompat batu diambil dari [Wonderful Indonesia](http://www.indonesia.travel/id/destination/730/pulau-nias/article/137/tradisi-lompat-batu-di-pulau-nias)._
 
  [1]: https://www.facebook.com/gomugomunomatsuri4
  [2]: http://twitter.com/N2HK
  [3]: http://www.sman2bdg.sch.id/
  [4]: http://www.indonesia.travel/id/destination/730/pulau-nias/article/137/tradisi-lompat-batu-di-pulau-nias
- [5]: http://saiful.web.id/blog/wp-content/uploads/2013/11/tradisi-lompat-batu-nias.jpg
- [6]: https://www.fictionpress.com/s/3166518/1/Fall
- [7]: https://www.fictionpress.com/s/3166514/1/Answer
- [8]: https://www.fictionpress.com/s/3166515/1/Because-of-Taiikukan
+ [5]: https://www.fictionpress.com/s/3166518/1/Fall
+ [6]: https://www.fictionpress.com/s/3166514/1/Answer
+ [7]: https://www.fictionpress.com/s/3166515/1/Because-of-Taiikukan

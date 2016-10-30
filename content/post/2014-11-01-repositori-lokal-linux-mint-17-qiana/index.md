@@ -24,14 +24,14 @@ sudo nano /etc/apt/sources.list
 
 Tapi ternyata, hal ini yang saya temui:
 
-<img class="alignnone size-full wp-image-49" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-1.png" alt="repo-lokal-1" width="658" height="435" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-1.png 658w, https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-1-300x198.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![](repo-lokal-1.png)
 
 Lho, ke mana puluhan baris yang biasa saya temui di `/etc/apt/sources.list` milik Ubuntu itu?
 
 <!--more-->Saya mencoba mengakses System Settings bawaan dari Linux Mint 17, kemudian membuka konfigurasi Software Sources di bagian bawah. Setelah memasukkan
 _root password_, saya agak kaget dengan tampilan ini — dan langsung berdecak kagum:
 
-<img class="alignnone size-full wp-image-50" src="https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-2.png" alt="repo-lokal-2" width="789" height="532" srcset="https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-2.png 789w, https://saiful.web.id/blog/wp-content/uploads/2014/11/repo-lokal-2-300x202.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+![](repo-lokal-2.png)
 
 Ternyata, secara standar, Linux Mint 17 sudah menyediakan opsi untuk merubah sumber repositorinya ke berbagai _mirror_ di seluruh dunia. Kambing UI dan repositori UKDW juga tercantum di sana.
 
