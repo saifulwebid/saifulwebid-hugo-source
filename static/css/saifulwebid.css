@@ -1,4 +1,4 @@
-html, .sidebar-about h1 {
+html, .sidebar-about h1, .pagination {
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 @media (min-width: 48em) {
