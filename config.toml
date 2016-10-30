@@ -3,6 +3,12 @@ title = "Muhammad Saiful Islam"
 languageCode = "id-id"
 DefaultContentLanguage = "id"
 theme = "hyde"
+enableEmoji = true
+
+[blackfriday]
+	smartDashes = true
+	latexDashes = true
+	sourceRelativeLinksEval = true
 
 [permalinks]
 	post = "/:year/:month/:slug/"
