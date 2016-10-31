@@ -1,0 +1,8 @@
+      <ul class="sidebar-nav">
+        <li><a href="/">Home</a> </li>
+        {{ range .Site.Menus.main }}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{end}}
+      </ul>
+
+      <p class="sidebar-expanded">{{ with .Site.Params.copyright }}{{.}}{{ else }}<span>sejak 2009</span> <span>hingga {{.Now.Format "2006"}}</span> {{end}}</p>
