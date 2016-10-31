@@ -12,3 +12,4 @@ Sejak November 2016, situs ini ditenagai teknologi-teknologi berikut:
 - [Hugo](https://gohugo.io/), sebuah static site generator yang dibangun dengan bahasa Go. Hugo berlisensi Apache-2.0.
 - _Theme_ [Hyde](https://github.com/spf13/hyde/) buatan [Steve Francia](https://github.com/spf13) yang sudah saya modifikasi sedikit. Hyde berlisensi MIT.
 - Di-host di [GitHub Pages](https://pages.github.com/) dengan [CloudFlare](https://www.cloudflare.com/) di atasnya.
+- Favicon dari emoji Apple yang diunduh dari http://kawaiidarkcore.deviantart.com/art/All-Emojis-Apple-PNG-524289664.
