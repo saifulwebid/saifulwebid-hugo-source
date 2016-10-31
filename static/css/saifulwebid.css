@@ -3,15 +3,15 @@ html, .sidebar-about h1, .pagination {
 }
 @media (min-width: 48em) {
 	.sidebar-about h1 {
-		font-size: 2.5rem;
+		font-size: 2.25rem;
 	}
 }
 .sidebar-about h1 span {
-	font-weight: normal;
 	font-weight: 100;
 }
 html {
 	font-size: 14px;
+  background-color: #202020;
 }
 @media (min-width: 38em) {
   html {
@@ -21,13 +21,46 @@ html {
 @media (min-width: 48em) {
   html {
     font-size: 16px;
+    background-color: transparent;
   }
   .content {
   	max-width: 42rem;
   }
 }
-@media (min-width: 58em) {
-  html {
-    font-size: 16px;
+
+#footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+#footer a {
+  color: #fff;
+}
+.sidebar-footer {
+  display: none;
+}
+.homepage .sidebar-footer {
+  display: block;
+}
+@media (min-width: 48em) {
+  #footer {
+    display: none;
+  }
+  .sidebar-footer {
+    display: block;
+  }
+}
+.sidebar-expanded {
+  letter-spacing: 5px;
+  font-weight: 100;
+}
+.sidebar-expanded span {
+  white-space: nowrap;
+}
+@media (min-width: 38em) {
+  .sidebar-expanded {
+    letter-spacing: 0;
+    font-size: 90%;
   }
 }
