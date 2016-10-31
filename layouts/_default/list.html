@@ -1,5 +1,4 @@
 {{ partial "head.html" . }}
-<body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
 
 {{ partial "sidebar.html" . }}
 
@@ -12,5 +11,5 @@
         {{ end }}
     </ul>
   </div>
-</body>
-</html>
+
+{{ partial "footer.html" . }}
