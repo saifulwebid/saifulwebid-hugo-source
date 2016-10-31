@@ -24,12 +24,13 @@
 
       </span>
 
-      {{ if .Truncated }}
+      {{ if or (eq .Params.readmore false) (eq .Truncated false) }}
+        {{ .Content }}
+      {{ else }}
         {{ .Summary }}
 
         <p><a href="{{ .Permalink }}" class="read-more-link">Read more ...</a></p>
-      {{ else }}
-        {{ .Content }}
+        
       {{ end }}
     </div>
   {{ end }}

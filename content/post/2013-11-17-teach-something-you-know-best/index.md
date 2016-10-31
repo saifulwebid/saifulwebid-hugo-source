@@ -7,6 +7,7 @@ slug: teach-something-you-know-best
 categories:
   - Life Notes
 format: quote
+readmore: false
 
 ---
 > **Teach something you know best.**

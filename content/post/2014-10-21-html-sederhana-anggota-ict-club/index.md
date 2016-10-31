@@ -6,6 +6,7 @@ date: 2014-10-21T04:47:27+00:00
 slug: html-sederhana-anggota-ict-club
 categories:
   - 'ICT Club - SMP Negeri 2 Bandung'
+readmore: false
 blackfriday:
   sourceRelativeLinksEval: false
 

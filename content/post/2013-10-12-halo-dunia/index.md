@@ -8,11 +8,12 @@ dsq_thread_id:
   - 1848224235
 categories:
   - Intermezzo
+readmore: false
 
 ---
 Halo, dunia. Saya kembali lagi.
 
-saiful.web.id dulu hanya eksperimen, coba-coba beli _domain_ .ID melalui PANDI. _Thanks because of it_, sekarang saya pakai _nickname_ **saifulwebid** hampir di seluruh jejaring sosial dan identitas maya saya.
+saiful.web.id dulu hanya eksperimen, coba-coba beli _domain_ .ID melalui PANDI. _Thanks because of it_, sekarang saya pakai <i>nickname</i> **saifulwebid** hampir di seluruh jejaring sosial dan identitas maya saya.
 
 saiful.web.id dulu hanya eksperimen, coba-coba beli _web hosting_ dari yang berkapasitas super kecil, tiba-tiba dapat rezeki lebih dan beli kapasitas super besar, sampai akhirnya pindah lagi, pindah lagi, pindah lagi ke tempat yang sekarang.
 
@@ -24,6 +25,6 @@ Mudah-mudahan, tidak seperti itu lagi.
 
 Mudah-mudahan, meskipun jarang ditulisi, saiful.web.id tidak akan di-_reset_ lagi.
 
-_
+***
 
 **Halo, dunia. Saya kembali lagi.**

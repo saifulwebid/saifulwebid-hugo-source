@@ -7,6 +7,7 @@ slug: definition-of-friend
 categories:
   - Life Notes
 format: quote
+readmore: false
 
 ---
 > This is me, and I like being who I am. I know it is important to build a large network, but only in certain conditions.

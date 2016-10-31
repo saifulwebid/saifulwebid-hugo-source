@@ -6,6 +6,7 @@ date: 2014-11-01T14:28:41+00:00
 slug: ngoprek-linux-mint-17
 categories:
   - Life Notes
+readmore: false
 
 ---
 Beberapa minggu yang lalu saya ikut kegiatan Share-ing IT dari Departemen Pendidikan [Himpunan Mahasiswa Komputer Politeknik Negeri Bandung][1]. Dari sana, saya _keplincut_ (apa ya? Bahasa Sundanya _kabita_) untuk pakai lagi OS berbasis Linux di laptop saya setelah terakhir kali bermain dengan Linux kira-kira tahun 2009--2011-an.
