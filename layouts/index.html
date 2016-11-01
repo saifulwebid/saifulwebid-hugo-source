@@ -55,9 +55,9 @@
   </div>
 </div>
 
-{{ if not (eq (printf "%v" $.Site.BaseURL) "http://localhost:1313/") }}
-  {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
-    <script id="dsq-count-scr" src="//{{ .Site.Params.disqusShortname }}.disqus.com/count.js" async></script>
+{{ if ne (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
+  {{ with .Site.DisqusShortname }}
+    <script id="dsq-count-scr" src="//{{ . }}.disqus.com/count.js" async></script>
   {{ end }}
 {{ end }}
 

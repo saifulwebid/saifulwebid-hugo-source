@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2014-11-01T15:33:16+00:00
 slug: repositori-lokal-linux-mint-17-qiana
-dsq_thread_id:
-  - 5232724638
+disqus_identifier: 5232724638
 categories:
   - Linux
 tags:

@@ -4,6 +4,7 @@ languageCode = "id-id"
 DefaultContentLanguage = "id"
 theme = "hyde"
 enableRobotsTXT = true
+disqusShortname = "saifulwebid"
 
 [blackfriday]
 	smartDashes = true
@@ -15,5 +16,4 @@ enableRobotsTXT = true
 	page = "/:slug/"
 
 [params]
-	disqusShortname = "saifulwebid"
 	description = "karena hidup terakhir seseorang di muka bumi adalah tulisannya"

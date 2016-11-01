@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2016-03-27T10:19:23+00:00
 slug: membuat-garis-lurus-di-powerdesigner
-dsq_thread_id:
-  - 5232724529
+disqus_identifier: 5232724529
 categories:
   - PowerDesigner
 

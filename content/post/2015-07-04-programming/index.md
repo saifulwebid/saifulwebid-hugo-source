@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2015-07-04T01:15:49+00:00
 slug: programming
-dsq_thread_id:
-  - 5234356729
+disqus_identifier: 5234356729
 categories:
   - Life Notes
 

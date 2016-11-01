@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2013-10-12T04:26:31+00:00
 slug: halo-dunia
-dsq_thread_id:
-  - 1848224235
+disqus_identifier: 1848224235
 categories:
   - Intermezzo
 readmore: false

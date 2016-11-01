@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2013-11-25T12:50:42+00:00
 slug: fic-ggnmiv
-dsq_thread_id:
-  - 5232724825
+disqus_identifier: 5232724825
 categories:
   - Kompetisi
 mathjax: true

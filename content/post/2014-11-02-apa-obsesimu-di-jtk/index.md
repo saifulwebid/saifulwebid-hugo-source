@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2014-11-02T09:57:25+00:00
 slug: apa-obsesimu-di-jtk
-dsq_thread_id:
-  - 5232724666
+disqus_identifier: 5232724666
 categories:
   - Life Notes
 

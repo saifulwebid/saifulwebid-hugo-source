@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2015-09-03T13:18:33+00:00
 slug: with-great-power-comes-great-responsibility
-dsq_thread_id:
-  - 5233076662
+disqus_identifier: 5233076662
 categories:
   - Life Notes
 

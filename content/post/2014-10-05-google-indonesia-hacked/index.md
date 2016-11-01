@@ -4,8 +4,7 @@ author: Saiful
 layout: post
 date: 2014-10-05T05:07:49+00:00
 slug: google-indonesia-hacked
-dsq_thread_id:
-  - 5232724734
+disqus_identifier: 5232724734
 categories:
   - Intermezzo
 tags:
