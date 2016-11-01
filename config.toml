@@ -3,7 +3,6 @@ title = "Muhammad Saiful Islam"
 languageCode = "id-id"
 DefaultContentLanguage = "id"
 theme = "hyde"
-enableEmoji = true
 
 [blackfriday]
 	smartDashes = true
