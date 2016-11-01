@@ -23,6 +23,9 @@
   <!-- Icons -->
   <link rel="shortcut icon" href="/favicon.png">
 
+  <!-- RSS -->
+  <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+
   <!-- JavaScripts-->
   {{ if .Params.mathjax }}
   <script type="text/x-mathjax-config">
@@ -34,8 +37,11 @@
   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
   {{ end }}
 
-  <!-- RSS -->
-  <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ if ne (printf "%v" $.Site.BaseURL) "http://localhost:1313/" }}
+    {{ if .Site.GoogleAnalytics }}
+      {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+  {{ end }}
 </head>
 
 <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}} {{ if .IsHome }}homepage{{ end }}">
