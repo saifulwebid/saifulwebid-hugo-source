@@ -6,6 +6,7 @@ theme = "hyde"
 enableRobotsTXT = true
 disqusShortname = "saifulwebid"
 googleAnalytics = "UA-85966390-1"
+metaDataFormat = "yaml"
 
 [blackfriday]
 	smartDashes = true
