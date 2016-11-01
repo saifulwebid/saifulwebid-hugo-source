@@ -16,17 +16,11 @@ Setidaknya sudah tiga kali selama berada di [Jurusan Teknik Komputer dan Informa
 
 Apa pula makhluk bernama obsesi ini? KBBI edisi keempat [mendefinisikan kata obsesi][5] sebagai berikut (setelah di edisi sebelumnya, [sebagaimana diungkap oleh dosen saya][6], KBBI sempat memaknai kata ini hanya dari sudut pandang psikologi dan berkonotasi negatif):
 
-<p style="padding-left: 30px;">
-  <strong>obsesi /ob-sé-si/</strong>
-</p>
-
-<p style="padding-left: 30px;">
-  1.<em> n</em> <strong>ide atau perasaan yang sangat merasuki pikiran</strong>: <em>mencari jalan ke Kepulauan Nusantara merupakan ~ bagi orang Eropa pada abad ke-15</em>
-</p>
-
-<p style="padding-left: 30px;">
-  2.<em> n</em> <em>Psi</em> gangguan jiwa berupa pikiran yang selalu menggoda seseorang dan sangat sukar dihilangkan:
-</p>
+> obsesi /ob-sé-si/
+>
+> 1.<em> n</em> <strong>ide atau perasaan yang sangat merasuki pikiran</strong>: <em>mencari jalan ke Kepulauan Nusantara merupakan ~ bagi orang Eropa pada abad ke-15</em>
+>
+> 2.<em> n</em> <em>Psi</em> gangguan jiwa berupa pikiran yang selalu menggoda seseorang dan sangat sukar dihilangkan:
 
 (_Emphasis mine._)
 
