@@ -47,8 +47,8 @@ Dan Polres Cilacap menanggapinya dengan santai,
 
 Bravo!
 
-[1]: /web/20100505143345/http://satreskrim-cilacap.com/
-[3]: /web/20100505143345/http://satreskrim-cilacap.com/component/content/article/146-surat-terbuka
-[4]: /web/20100505143345/http://www.satreskrim-cilacap.com/
-[5]: /web/20100505143345/http://www.satlantasrescilacap.com/
-[6]: /web/20100505143345/http://www.info-laka.com/
+[1]: http://satreskrim-cilacap.com/
+[3]: http://satreskrim-cilacap.com/component/content/article/146-surat-terbuka
+[4]: http://www.satreskrim-cilacap.com/
+[5]: http://www.satlantasrescilacap.com/
+[6]: http://www.info-laka.com/
