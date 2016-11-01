@@ -1,11 +1,10 @@
-{{ partial "head.html" . }}
+{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ partial "head.html" . }}
 
 {{ partial "sidebar.html" . }}
 
 <div class="content container">
   <div class="posts">
-
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  
   {{ range .Paginator.Pages }}
     <div class="post">
       <h1 class="post-title">

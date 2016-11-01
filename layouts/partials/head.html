@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   {{ if .IsHome }}
-  <title>{{ .Site.Title }}</title>
+  <title>{{ .Site.Title }}{{ if gt .Paginator.PageNumber 1 }} &middot; Page {{ .Paginator.PageNumber }}{{ end }}</title>
   {{ else }}
   <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
   {{ end }}
