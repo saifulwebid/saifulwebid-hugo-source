@@ -18,7 +18,7 @@
 
         {{ with .Params.categories }}
         &bull; Categor{{ if gt (len .) 1 }}ies{{ else }}y{{ end }}:
-        {{ range $index, $director := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+        {{ range $index, $category := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | absURL }}{{ . | urlize }}/">{{ $category }}</a>{{ end }}
         {{ end }}
 
         {{ if .Site.DisqusShortname }}

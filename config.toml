@@ -24,3 +24,7 @@ pluralizeListTitles = "false"
 
 [params]
 	description = "karena hidup terakhir seseorang di muka bumi adalah tulisannya"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
