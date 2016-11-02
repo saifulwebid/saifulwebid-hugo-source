@@ -12,6 +12,14 @@
 		        {{ range $index, $category := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | absURL }}{{ . | urlize }}/">{{ $category }}</a>{{ end }}
 		        {{ end }}
 			  </span>
+
+      {{ if .Params.oldblog }}
+      <div class="oldblog">
+        <p>Tulisan ini saya ambil kembali dari <a href="http://archive.org/web/">Internet Archive: Wayback Machine</a> dari blog terdahulu, dan sudah lebih dahulu diterbitkan di URL ini: {{ .Params.oldblog }}.</p>
+        <p>Saat saya ambil kembali, ada tulisan-tulisan berfoto yang fotonya tidak terarsipkan. Mungkin tulisan ini salah satunya.</p>
+      </div>
+      {{ end }}
+      
 			      {{ .Content }}
 			</div>
 
