@@ -1,0 +1,27 @@
+{{ partial "head.html" . }}
+
+{{ partial "sidebar.html" . }}
+
+  <div class="content container">
+    {{ if eq .Title "Arsip Lama" }}
+    <h1>{{ .Title }}</h1>
+    <p>Tulisan ini saya ambil kembali dari <a href="http://archive.org/web/">Internet Archive: Wayback Machine</a> dari blog terdahulu. (Dulu, saya kurang begitu apik dalam mengarsipkan tulisan, dan gemar sekali me-<i>refresh</i> space saya di hosting saya saat itu.)</p>
+    <p>Setidaknya, dulu saya pernah nge-blog di empat kolom: http://saiful.web.id/, http://muhammad.saiful.web.id/, http://saiful.wordpress.com/, dan http://seorangpelajar.co.cc/ (tidak ada yang terarsipkan dari situs terakhir ini).</p>
+    <p>Saya arsipkan di blog ini sebagai "napak tilas" bahwa tulisan-tulisan itu secara tidak langsung merupakan cerminan perjalanan hidup saya hingga saat ini.</p>
+    {{ else }}
+    <h1>{{ .Title }} Archives</h1>
+    {{ end }}
+
+  	{{ range .Data.Pages.GroupByDate "2006" }}
+  	<h2>{{ .Key }}</h2>
+    <ul class="posts">
+        {{ range .Pages }}
+        <li>
+          <span><a href="{{ .Permalink }}">{{ .Title }}</a> <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</time></span>
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+
+{{ partial "footer.html" . }}
