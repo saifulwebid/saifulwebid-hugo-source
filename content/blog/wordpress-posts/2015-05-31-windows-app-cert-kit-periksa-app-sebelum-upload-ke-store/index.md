@@ -34,12 +34,12 @@ Untungnya, Microsoft punya aplikasi Windows App Certification Kit. Aplikasi ini 
 
 Penggunaannya pun sangat mudah. Wizard-nya user friendly (bahkan untuk user biasa sekalipun!). Tidak banyak jargon-jargon aneh yang terdapat pada aplikasi ini. Tinggal pilih jenis App yang ingin diuji, lalu pilih App-nya, lalu tunggu beberapa saat, dan hasil tes pun keluar.
 
-![](/post/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/Screenshot-2015-05-31-11.35.22.png)
+![](/blog/wordpress-posts/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/Screenshot-2015-05-31-11.35.22.png)
 
 Microsoft sangat merekomendasikan semua App yang kita buat untuk diuji dengan aplikasi ini sebelum meng-upload-nya ke Store. Saya sendiri sangat terbantu dengan aplikasi ini: aplikasi ini mengingatkan saya untuk melakukan Build dengan mode Release ketika pengujian, mengingatkan untuk menambah logo aplikasi dan splash screen, dan hal-hal trivial lainnya.
 
 Kalau Anda ingin melihat contoh report yang dihasilkan, Anda bisa lihat [contoh report yang berhasil][1], [yang gagal][2], dan [report untuk Windows Phone App][3].
 
- [1]: /post/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/app-test-success.htm
- [2]: /post/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/app-test-failed.html
- [3]: /post/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/phone-test-success.html
+ [1]: /blog/wordpress-posts/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/app-test-success.htm
+ [2]: /blog/wordpress-posts/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/app-test-failed.html
+ [3]: /blog/wordpress-posts/2015-05-31-windows-app-cert-kit-periksa-app-sebelum-upload-ke-store/phone-test-success.html

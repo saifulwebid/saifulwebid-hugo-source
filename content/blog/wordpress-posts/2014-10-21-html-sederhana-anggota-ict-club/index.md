@@ -17,9 +17,9 @@ Saat itu saya sempat memberikan tugas serta "mengiming-imingi" bahwa hasil karya
 
 Saya pajang hasil karya HTML sederhana dari adik-adik saya di sana:
 
-  1. Fadly Fahrezi, kelas VIII. [Klik di sini untuk membuka karyanya.](/post/2014-10-21-html-sederhana-anggota-ict-club/fadly/index.html)
-  2. Firyal Dhiya, kelas VII-D, dan Moza, kelas VII-C. [Klik di sini untuk membuka karyanya.](/post/2014-10-21-html-sederhana-anggota-ict-club/moza-firyal/index.html)
-  3. M. Reynaldy T., kelas VIII-A, dan M. Dika Nugroho, kelas VIII-C. [Klik di sini untuk membuka karyanya.](/post/2014-10-21-html-sederhana-anggota-ict-club/dika/index.html)
+  1. Fadly Fahrezi, kelas VIII. [Klik di sini untuk membuka karyanya.](/blog/wordpress-posts/2014-10-21-html-sederhana-anggota-ict-club/fadly/index.html)
+  2. Firyal Dhiya, kelas VII-D, dan Moza, kelas VII-C. [Klik di sini untuk membuka karyanya.](/blog/wordpress-posts/2014-10-21-html-sederhana-anggota-ict-club/moza-firyal/index.html)
+  3. M. Reynaldy T., kelas VIII-A, dan M. Dika Nugroho, kelas VIII-C. [Klik di sini untuk membuka karyanya.](/blog/wordpress-posts/2014-10-21-html-sederhana-anggota-ict-club/dika/index.html)
 
 Saya berterima kasih atas ekspresi karya yang sudah dikirimkan di atas. Harapannya, dari pembelajaran sederhana tentang HTML itu, ada sedikit _insight_ mengenai bagaimana suatu informasi di laman web dapat ditampilkan kepada pengguna.
 
