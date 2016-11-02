@@ -8,6 +8,10 @@ disqusShortname = "saifulwebid"
 googleAnalytics = "UA-85966390-1"
 metaDataFormat = "yaml"
 
+[author]
+	name = "Muhammad Saiful Islam"
+	email = "muhammad@saiful.web.id"
+
 [blackfriday]
 	smartDashes = true
 	latexDashes = true
