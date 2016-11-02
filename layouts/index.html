@@ -1,4 +1,4 @@
-{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}{{ partial "head.html" . }}
+{{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}{{ partial "head.html" . }}
 
 {{ partial "sidebar.html" . }}
 
