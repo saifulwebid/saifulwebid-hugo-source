@@ -19,7 +19,7 @@ pluralizeListTitles = "false"
 	sourceRelativeLinksEval = true
 
 [permalinks]
-	post = "/:year/:month/:slug/"
+	blog = "/:year/:month/:slug/"
 	page = "/:slug/"
 
 [params]
