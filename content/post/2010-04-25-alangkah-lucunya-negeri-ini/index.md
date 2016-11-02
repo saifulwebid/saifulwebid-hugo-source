@@ -2,7 +2,7 @@
 title: Alangkah Lucunya (Negeri Ini)
 date: 2010-04-30T16:04:00+07:00
 slug: alangkah-lucunya-negeri-ini
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/asides/6/alangkah-lucunya-negeri-ini/
 readmore: false

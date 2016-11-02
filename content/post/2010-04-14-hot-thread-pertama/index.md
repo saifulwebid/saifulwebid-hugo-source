@@ -2,7 +2,7 @@
 title: Hot Thread Pertama...!
 date: 2010-04-14T00:00:00+07:00
 slug: hot-thread-pertama
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/2010/04/14/hot-thread-pertama
 readmore: false

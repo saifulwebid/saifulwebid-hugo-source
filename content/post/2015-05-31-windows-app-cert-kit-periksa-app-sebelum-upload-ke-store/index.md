@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2015-05-31T04:38:50+00:00
 slug: windows-app-cert-kit-periksa-app-sebelum-upload-ke-store
-category:
+categories:
   - Microsoft Ecosystem
 blackfriday:
   sourceRelativeLinksEval: false

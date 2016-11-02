@@ -2,7 +2,7 @@
 title: First Post
 date: 2010-04-25T12:14:00+07:00
 slug: first-post
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/1/first-post/
 readmore: false

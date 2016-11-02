@@ -2,7 +2,7 @@
 title: Facebook Hoax... Lagi.
 date: 2010-04-13T14:14:00+07:00
 slug: facebook-hoax-lagi
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/2010/04/13/facebook-hoax-lagi/
 ---

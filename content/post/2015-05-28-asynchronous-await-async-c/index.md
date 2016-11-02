@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2015-05-27T22:24:50+00:00
 slug: asynchronous-await-async-c
-category:
+categories:
   - Microsoft Ecosystem
 
 ---

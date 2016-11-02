@@ -2,7 +2,7 @@
 title: 'Halo Dunia: Subdomain Baru, Homepage Baru'
 date: 2010-09-05T00:00:00+07:00
 slug: halo-dunia-mswi
-category:
+categories:
   - Arsip Lama
 oldblog: http://muhammad.saiful.web.id/2010/09/halo-dunia.html
 readmore: false

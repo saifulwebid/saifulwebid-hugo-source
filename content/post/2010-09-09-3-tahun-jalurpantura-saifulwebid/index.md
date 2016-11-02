@@ -2,7 +2,7 @@
 title: '3 Tahun #JalurPantura @saifulwebid'
 date: 2010-09-09T00:00:00+07:00
 slug: 3-tahun-jalurpantura-saifulwebid
-category:
+categories:
   - Arsip Lama
 oldblog: http://muhammad.saiful.web.id/2010/09/3-tahun-jalurpantura-saifulwebid.html
 ---

@@ -2,7 +2,7 @@
 title: 'Report: Starity Vaganza'
 date: 2009-07-19T00:00:00+07:00
 slug: report-starity-vaganza
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.wordpress.com/2009/07/19/report-starity-vaganza/
 ---

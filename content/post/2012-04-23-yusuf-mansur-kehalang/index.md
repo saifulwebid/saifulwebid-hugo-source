@@ -2,7 +2,7 @@
 title: '@Yusuf_Mansur: #kehalang'
 date: 2012-04-23T00:00:00+07:00
 slug: yusuf_mansur-kehalang
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/2012/04/yusuf_mansur-kehalang/
 ---

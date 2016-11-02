@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2015-05-31T08:57:01+00:00
 slug: lifecycle-sebuah-windows-app
-category:
+categories:
   - Microsoft Ecosystem
 
 ---

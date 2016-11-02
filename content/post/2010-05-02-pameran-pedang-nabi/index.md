@@ -2,7 +2,7 @@
 title: Pameran Pedang Nabi
 date: 2010-05-02T21:20:00+07:00
 slug: pameran-pedang-nabi
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/37/pameran-pedang-nabi/
 ---

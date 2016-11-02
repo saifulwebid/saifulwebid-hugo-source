@@ -2,7 +2,7 @@
 title: Blogger atau WordPress?
 date: 2010-06-15T20:28:00+07:00
 slug: blogger-atau-wordpress
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/2010/06/15/blogger-atau-wordpress/
 ---

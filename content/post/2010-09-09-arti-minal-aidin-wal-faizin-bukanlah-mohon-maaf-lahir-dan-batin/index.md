@@ -2,7 +2,7 @@
 title: Arti "Minal 'Aidin wal Faizin" Bukanlah "Mohon Maaf Lahir dan Batin"
 date: 2010-09-09T00:00:00+07:00
 slug: arti-minal-aidin-wal-faizin-bukanlah-mohon-maaf-lahir-dan-batin
-category:
+categories:
   - Arsip Lama
 oldblog: http://muhammad.saiful.web.id/2010/09/arti-minal-aidin-wal-faizin-bukanlah-mohon-maaf-lahir-dan-batin.html
 ---

@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2015-05-29T14:05:08+00:00
 slug: implementasi-asynchronous-pada-feed-reader-c
-category:
+categories:
   - Microsoft Ecosystem
 
 ---

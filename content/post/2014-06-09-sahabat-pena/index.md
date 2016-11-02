@@ -5,7 +5,7 @@ layout: post
 date: 2014-06-09T11:38:26+00:00
 slug: sahabat-pena
 disqus_identifier: 5232724775
-category:
+categories:
   - Life Notes
 
 ---

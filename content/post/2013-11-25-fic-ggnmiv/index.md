@@ -5,7 +5,7 @@ layout: post
 date: 2013-11-25T12:50:42+00:00
 slug: fic-ggnmiv
 disqus_identifier: 5232724825
-category:
+categories:
   - Kompetisi
 mathjax: true
 

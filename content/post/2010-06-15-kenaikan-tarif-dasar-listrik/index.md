@@ -2,7 +2,7 @@
 title: Kenaikan Tarif Dasar Listrik
 date: 2010-06-15T00:00:00+07:00
 slug: kenaikan-tarif-dasar-listrik
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/2010/06/15/kenaikan-tarif-dasar-listrik
 ---

@@ -2,7 +2,7 @@
 title: Masalah max-width Pada Gambar
 date: 2010-04-26T17:28:00+07:00
 slug: masalah-max-width-pada-gambar
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/18/masalah-max-width-pada-gambar/
 ---

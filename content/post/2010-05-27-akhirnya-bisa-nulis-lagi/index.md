@@ -2,7 +2,7 @@
 title: Akhirnya, Bisa Nulis Lagi..
 date: 2010-05-27T05:30:00+07:00
 slug: akhirnya-bisa-nulis-lagi
-category:
+categories:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/60/akhirnya-bisa-nulis-lagi
 readmore: false
