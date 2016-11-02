@@ -5,9 +5,9 @@ layout: post
 date: 2014-10-05T05:07:49+00:00
 slug: google-indonesia-hacked
 disqus_identifier: 5232724734
-categories:
+category:
   - Intermezzo
-tags:
+tag:
   - DNS
   - Telkom
 

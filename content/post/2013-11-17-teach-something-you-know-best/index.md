@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2013-11-17T02:59:50+00:00
 slug: teach-something-you-know-best
-categories:
+category:
   - Life Notes
 format: quote
 readmore: false

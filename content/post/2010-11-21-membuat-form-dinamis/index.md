@@ -2,7 +2,7 @@
 title: Membuat Form Dinamis
 date: 2010-11-21T00:00:00+07:00
 slug: membuat-form-dinamis
-categories:
+category:
   - Arsip Lama
 oldblog: http://muhammad.saiful.web.id/2010/11/membuat-form-dinamis/
 ---

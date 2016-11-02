@@ -2,7 +2,7 @@
 title: Pertama Kali Bermain Kasti...
 date: 2011-06-16T20:28:00+07:00
 slug: pertama-kali-bermain-kasti
-categories:
+category:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/53/pertama-kali-bermain-kasti/
 ---

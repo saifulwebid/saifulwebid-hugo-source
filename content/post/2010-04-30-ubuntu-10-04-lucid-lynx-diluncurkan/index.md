@@ -2,7 +2,7 @@
 title: Ubuntu 10.04 Lucid Lynx Diluncurkan
 date: 2010-04-30T05:44:00+07:00
 slug: ubuntu-10-04-lucid-lynx-diluncurkan
-categories:
+category:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/35/ubuntu-10-04-lucid-lynx-diluncurkan/
 readmore: false

@@ -2,7 +2,7 @@
 title: I will switch to MovableType soon.
 date: 2010-06-15T20:30:00+07:00
 slug: i-will-switch-to-movabletype-soon
-categories:
+category:
   - Arsip Lama
 oldblog: http://saiful.web.id/post/62/i-will-switch-to-movabletype-soon/
 readmore: false

@@ -5,7 +5,7 @@ layout: post
 date: 2013-10-12T04:26:31+00:00
 slug: halo-dunia
 disqus_identifier: 1848224235
-categories:
+category:
   - Intermezzo
 readmore: false
 

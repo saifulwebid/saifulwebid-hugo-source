@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2015-09-01T22:54:15+00:00
 slug: google-punya-logo-baru
-categories:
+category:
   - Berita
 
 ---

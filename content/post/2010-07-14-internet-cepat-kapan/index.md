@@ -2,7 +2,7 @@
 title: Internet Cepat. Kapan?
 date: 2010-07-14T00:00:00+07:00
 slug: internet-cepat-kapan
-categories:
+category:
   - Arsip Lama
 oldblog: http://saiful.web.id/2010/07/14/internet-cepat-kapan/
 ---

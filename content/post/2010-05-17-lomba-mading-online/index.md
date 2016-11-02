@@ -2,7 +2,7 @@
 title: Lomba Mading Online, Vakum Sementara~
 date: 2010-05-17T05:29:00+07:00
 slug: hot-thread-pertama
-categories:
+category:
   - Arsip Lama
 oldblog: http://saiful.web.id/asides/50/lomba-mading-online/
 readmore: false

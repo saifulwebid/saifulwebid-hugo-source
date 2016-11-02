@@ -4,7 +4,7 @@ author: Saiful
 layout: post
 date: 2013-11-17T03:04:29+00:00
 slug: definition-of-friend
-categories:
+category:
   - Life Notes
 format: quote
 readmore: false
