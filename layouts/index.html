@@ -16,7 +16,12 @@
       <span class="post-date">
         {{ .Date.Format "Mon, Jan 2, 2006" }}
 
-        {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
+        {{ with .Params.categories }}
+        &bull; Categor{{ if gt (len .) 1 }}ies{{ else }}y{{ end }}:
+        {{ range $index, $director := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+        {{ end }}
+
+        {{ if .Site.DisqusShortname }}
         &bull; <a href="{{ .Permalink }}#disqus_thread">Comments</a>
         {{ end }}
 
