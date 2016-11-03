@@ -1,0 +1,18 @@
+{{ partial "head.html" . }}
+
+{{ partial "sidebar.html" . }}
+
+  <div class="content container">
+    <h1>{{ .Title }}</h1>
+
+    <ul class="posts">
+        {{ $data := .Data }}
+        {{ range $key, $value := .Data.Terms }}
+        <li>
+          <span><a href="{{ $data.Plural | absURL }}/{{ $key | urlize }}/">{{ $key }}</a> <time class="pull-right post-list">{{ len $value }}</time></span>
+        </li>
+        {{ end }}
+    </ul>
+  </div>
+
+{{ partial "footer.html" . }}
