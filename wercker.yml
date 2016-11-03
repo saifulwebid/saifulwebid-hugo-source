@@ -20,8 +20,11 @@ deploy:
     steps:
         - script:
             name: get git
-            code: apk --no-cache add git
+            code: apk --no-cache add git curl
         - takuma7/gh-pages@0.2.3:
             token: $GITHUB_TOKEN
             repo: saifulwebid/saifulwebid.github.io
             basedir: public
+        - script:
+            name: purge Cloudflare cache
+            code: curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${CLOUDFLARE_ZONE}/purge_cache" -H "X-Auth-Email: ${CLOUDFLARE_AUTH_EMAIL}" -H "X-Auth-Key: ${CLOUDFLARE_AUTH_KEY}" -H "Content-Type: application/json" --data '{"purge_everything": true}'
