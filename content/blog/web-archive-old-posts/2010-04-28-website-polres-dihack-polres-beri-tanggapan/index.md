@@ -1,6 +1,6 @@
 ---
 title: Website Polres Dihack, Polres Beri Tanggapan
-date: 2010-04-28T05:44:00+07:00
+date: 2010-04-28T05:44:48+07:00
 slug: website-polres-dihack-polres-beri-tanggapan
 categories:
   - Arsip Lama

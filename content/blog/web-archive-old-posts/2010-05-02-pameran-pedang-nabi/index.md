@@ -1,6 +1,6 @@
 ---
 title: Pameran Pedang Nabi
-date: 2010-05-02T21:20:00+07:00
+date: 2010-05-02T21:20:35+07:00
 slug: pameran-pedang-nabi
 categories:
   - Arsip Lama

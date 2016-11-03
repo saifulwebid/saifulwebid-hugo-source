@@ -1,6 +1,6 @@
 ---
 title: Alangkah Lucunya (Negeri Ini)
-date: 2010-04-30T16:04:00+07:00
+date: 2010-04-30T16:04:58+07:00
 slug: alangkah-lucunya-negeri-ini
 categories:
   - Arsip Lama

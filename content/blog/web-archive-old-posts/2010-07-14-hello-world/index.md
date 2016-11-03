@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2010-07-14T00:00:00+07:00
+date: 2010-07-14T17:45:21+07:00
 slug: hello-world
 categories:
   - Arsip Lama

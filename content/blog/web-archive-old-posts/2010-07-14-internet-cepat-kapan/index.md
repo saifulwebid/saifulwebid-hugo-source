@@ -1,6 +1,6 @@
 ---
 title: Internet Cepat. Kapan?
-date: 2010-07-14T00:00:00+07:00
+date: 2010-07-14T18:22:21+07:00
 slug: internet-cepat-kapan
 categories:
   - Arsip Lama

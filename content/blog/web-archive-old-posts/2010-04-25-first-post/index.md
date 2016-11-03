@@ -1,6 +1,6 @@
 ---
 title: First Post
-date: 2010-04-25T12:14:00+07:00
+date: 2010-04-25T12:14:48+07:00
 slug: first-post
 categories:
   - Arsip Lama
