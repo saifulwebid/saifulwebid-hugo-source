@@ -11,4 +11,4 @@
         {{end}}
       </ul>
 
-      <p class="sidebar-expanded">{{ with .Site.Params.copyright }}{{.}}{{ else }}<span><a href="{{ "/categories/arsip-lama/" | absURL }}">sejak 2008</a></span> <span>hingga <a href="{{ "/blog/" | absURL }}">{{.Now.Format "2006"}}</a></span> {{end}}</p>
+      <p class="sidebar-expanded">{{ with .Site.Params.copyright }}{{.}}{{ else }}<span><a href="{{ "/categories/arsip-lama/" | absURL }}">sejak 2008</a></span> <span>hingga <a href="{{ "/blog/" | absURL }}">{{ now.Format "2006"}}</a></span> {{end}}</p>
