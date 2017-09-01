@@ -1,7 +1,6 @@
 ---
 title: “Ngoprek” Linux Mint 17
 author: Saiful
-layout: post
 date: 2014-11-01T14:28:41+00:00
 slug: ngoprek-linux-mint-17
 categories:

@@ -1,7 +1,6 @@
 ---
 title: Halo, dunia. Saya kembali lagi.
 author: Saiful
-layout: post
 date: 2013-10-12T04:26:31+00:00
 slug: halo-dunia
 disqus_identifier: 1848224235

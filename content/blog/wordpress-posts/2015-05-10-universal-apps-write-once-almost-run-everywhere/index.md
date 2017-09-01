@@ -1,7 +1,6 @@
 ---
 title: Universal Apps, Write-Once-(Almost)-Run-Everywhere
 author: Saiful
-layout: post
 date: 2015-05-10T11:25:09+00:00
 slug: universal-apps-write-once-almost-run-everywhere
 categories:

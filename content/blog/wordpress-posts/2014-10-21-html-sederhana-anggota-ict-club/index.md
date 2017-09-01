@@ -1,7 +1,6 @@
 ---
 title: HTML Sederhana Karya Anggota ICT Club
 author: Saiful
-layout: post
 date: 2014-10-21T04:47:27+00:00
 slug: html-sederhana-anggota-ict-club
 categories:

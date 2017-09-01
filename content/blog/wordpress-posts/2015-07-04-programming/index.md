@@ -1,7 +1,6 @@
 ---
 title: Programming?
 author: Saiful
-layout: post
 date: 2015-07-04T01:15:49+00:00
 slug: programming
 disqus_identifier: 5234356729

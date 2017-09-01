@@ -1,7 +1,6 @@
 ---
 title: With great power, comes great responsibility
 author: Saiful
-layout: post
 date: 2015-09-03T13:18:33+00:00
 slug: with-great-power-comes-great-responsibility
 disqus_identifier: 5233076662

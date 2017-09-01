@@ -1,7 +1,6 @@
 ---
 title: Membuat Garis Lurus di PowerDesigner
 author: Saiful
-layout: post
 date: 2016-03-27T10:19:23+00:00
 slug: membuat-garis-lurus-di-powerdesigner
 disqus_identifier: 5232724529

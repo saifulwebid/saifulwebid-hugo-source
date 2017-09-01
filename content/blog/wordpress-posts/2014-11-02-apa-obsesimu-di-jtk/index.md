@@ -1,7 +1,6 @@
 ---
 title: “Apa Obsesimu di JTK?”
 author: Saiful
-layout: post
 date: 2014-11-02T09:57:25+00:00
 slug: apa-obsesimu-di-jtk
 disqus_identifier: 5232724666

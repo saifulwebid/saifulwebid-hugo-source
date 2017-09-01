@@ -1,7 +1,6 @@
 ---
 title: 'Implementasi Asynchronous pada Feed Reader (C#)'
 author: Saiful
-layout: post
 date: 2015-05-29T14:05:08+00:00
 slug: implementasi-asynchronous-pada-feed-reader-c
 categories:
