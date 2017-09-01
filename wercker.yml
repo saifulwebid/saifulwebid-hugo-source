@@ -8,10 +8,10 @@ build:
             name: get Hugo binary
             code: |
                 apk --no-cache add openssl ca-certificates
-                wget https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz
-                wget https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_checksums.txt
-                cat hugo_checksums.txt | grep hugo_0.26_Linux-64bit.tar.gz | sha256sum -c
-                tar xf hugo_0.26_Linux-64bit.tar.gz -C /usr/bin
+                wget https://github.com/gohugoio/hugo/releases/download/v0.25.1/hugo_0.25.1_Linux-64bit.tar.gz
+                wget https://github.com/gohugoio/hugo/releases/download/v0.25.1/hugo_checksums.txt
+                cat hugo_checksums.txt | grep hugo_0.25.1_Linux-64bit.tar.gz | sha256sum -c
+                tar xf hugo_0.25.1_Linux-64bit.tar.gz -C /usr/bin
                 hugo version
         - script:
             name: build Hugo site
