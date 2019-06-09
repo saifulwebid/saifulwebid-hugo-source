@@ -4,7 +4,7 @@ date: 2015-09-03T16:02:35+00:00
 menu: [main]
 
 ---
-<img class="alignright" src="http://www.gravatar.com/avatar/ef5f8254eb045eee7ed210e308f9fee5?s=200" alt="" width="200" height="200" />Nama saya Saiful. Saya adalah seorang mahasiswa program studi D4-Teknik Informatika di [Jurusan Teknik Komputer dan Informatika Politeknik Negeri Bandung][1]. Saya juga seorang Microsoft Student Partner.
+<img class="alignright" src="https://www.gravatar.com/avatar/ef5f8254eb045eee7ed210e308f9fee5?s=200" alt="" width="200" height="200" />Nama saya Saiful. Saya adalah seorang mahasiswa program studi D4-Teknik Informatika di [Jurusan Teknik Komputer dan Informatika Politeknik Negeri Bandung][1]. Saya juga seorang Microsoft Student Partner.
 
 Anda bisa menghubungi saya di <muhammad@saiful.web.id>.
 
